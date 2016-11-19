@@ -98,3 +98,9 @@ ggplot(urban_data,
 
 Urban counties are defined as those with a population over 50,000 and a population density over 1,000 people/mi^2^ (280 counties). [David Robinson](http://varianceexplained.org/) described how to access county population, land area, and election data [here](https://rpubs.com/dgrtwo/county-results). Data on police killings is taken from [Mapping Police Violence](http://mappingpoliceviolence.org/) for the year 2015.
 
+```{r dump_table}
+urban_data %>%
+  select(County, State, Clinton, KillingsPerMillionPeople) %>%
+  arrange(State, County) %>%
+  knitr::kable()
+```
