@@ -1,0 +1,100 @@
+---
+title: "Police killings and the 2016 election"
+author: "Eamon Caddigan, Ph.D."
+date: "November 19, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r libraries, include = FALSE}
+library(dplyr)
+library(readr)
+library(stringr)
+library(tidyr)
+library(readxl)
+library(ggplot2)
+```
+```{r county_data, include = FALSE}
+# This code is from David Robinson: https://rpubs.com/dgrtwo/county-results
+us_county_area <- read_excel("data/LND01.xls") %>%
+  transmute(CountyCode = as.character(as.integer(STCOU)),
+            Area = LND110210D)
+
+us_county_population <- read_excel("data/POP01.xls") %>%
+  transmute(CountyCode = as.character(as.integer(STCOU)),
+            Population = POP010210D)
+```
+```{r police_data, include = FALSE}
+# 2015 data from Mapping Police Violence: http://mappingpoliceviolence.org/aboutthedata/
+police_killings <- read_csv("data/mpv_counties.csv") %>%
+  transmute(CountyCode = as.character(fips)) %>%
+  count(CountyCode) %>%
+  rename(PoliceKillings = n)
+```
+```{r election_data, include = FALSE}
+# More code from Robinson
+election_results <- read_csv("data/election_results.csv") %>%
+  group_by(CountyCode = as.character(fips)) %>%
+  mutate(TotalVotes = sum(votes)) %>%
+  ungroup() %>%
+  mutate(name = str_replace(name, ".\\. ", "")) %>%
+  filter(name %in% c("Trump", "Clinton", "Johnson", "Stein")) %>%
+  transmute(County = str_replace(geo_name, " County", ""),
+            State = state,
+            CountyCode = as.character(fips),
+            Candidate = name,
+            Percent = vote_pct / 100,
+            TotalVotes) %>%
+  spread(Candidate, Percent, fill = 0)
+```
+```{r combine_data, include = FALSE}
+# Combine all of the county data
+county_data <- right_join(police_killings, election_results, by = "CountyCode") %>%
+  replace_na(list(PoliceKillings = 0)) %>%
+  left_join(us_county_population, by = "CountyCode") %>%
+  left_join(us_county_area, by = "CountyCode") %>%
+  mutate(KillingsPerMillionPeople = PoliceKillings / Population * 1e6,
+         PopulationDensity = Population / Area)
+
+# Select only "urban" counties (based on population density)
+urban_data <- county_data %>%
+  filter(PopulationDensity > 386,
+         Population > 50000)
+```
+
+There's no reliable relationship between Hillary Clinton's share of the vote and the rate at which police kill people in U.S. urban counties.
+
+```{r plot_data}
+label_points <- urban_data %>%
+  filter(County %in% c("District of Columbia",
+                       "New York",
+                       "Wyandotte",
+                       "Los Angeles",
+                       "Cook",
+                       "Portsmouth City",
+                       "Gaston",
+                       "Maricopa",
+                       "Harris",
+                       "Gregg"))
+ggplot(urban_data, 
+       aes(Clinton*100, KillingsPerMillionPeople)) + 
+  scale_x_continuous(breaks = seq(15, 95, by = 10)) +
+  geom_point(alpha = 0.2) + 
+  stat_smooth(method = "lm", fullrange = TRUE) +
+  geom_text(aes(label = County), data = label_points,
+            vjust = 1, hjust = 1, check_overlap = FALSE) +
+  geom_point(data = label_points) +
+  labs(title = "Police killings vs. Clinton vote share in US counties",
+       x = "Clinton vote share (%)",
+       y = "People killed by police (per million residents)") +
+  theme(panel.background = element_blank(),
+        panel.grid = element_blank(),
+        axis.line.x = element_line(color = "black", size = 0.5),
+        axis.line.y = element_line(color = "black", size = 0.5),
+        axis.text = element_text(color = "black"))
+```
+
+Urban counties are defined as those with a population over 50,000 and a population density over 1,000 people/mi^2^ (280 counties). [David Robinson](http://varianceexplained.org/) described how to access county population, land area, and election data [here](https://rpubs.com/dgrtwo/county-results). Data on police killings is taken from [Mapping Police Violence](http://mappingpoliceviolence.org/) for the year 2015.
+

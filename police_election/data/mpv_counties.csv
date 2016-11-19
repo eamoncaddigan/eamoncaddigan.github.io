@@ -1,0 +1,1197 @@
+"id","injury_date","address","city","state","zip","county_name","fips"
+1,"2015-12-31","8300 Golden Cypress Avenue","Las Vegas","NV",NA,"Clark County",32003
+2,"2015-12-30","1115 N Higley Blvd","Rawlins","WY",NA,"Carbon County",56007
+3,"2015-12-29","3500 Strang Ave","Rosemead","CA",NA,"Los Angeles County",6037
+4,"2015-12-29","E Belmont Ave and N Weber Ave","Fresno","CA",NA,"Fresno County",6019
+5,"2015-12-29","29000 Del Sol Ct","Santa Nella Village","CA",NA,"Merced County",6047
+6,"2015-12-29","4727 Lannie Rd","Jacksonville","FL",NA,"Duval County",12031
+7,"2015-12-28","300 Causey Ave","Suffolk","VA",NA,"Suffolk, City of",51800
+8,"2015-12-27","1000 E Fremont Dr","Tempe","AZ",NA,"Maricopa County",4013
+9,"2015-12-27","MS-26 and Henry Cochran Rd","Lucedale","MS",NA,"George County",28039
+10,"2015-12-26","12220 N 39th Ave","Phoenix","AZ",NA,"Maricopa County",4013
+11,"2015-12-25","4700 W. Erie","Chicago","IL",NA,"Cook County",17031
+12,"2015-12-25","5900 Selfridge","Lansing","MI",NA,"Ingham County",26065
+13,"2015-12-25","4700 W. Erie","Chicago","IL",NA,"Cook County",17031
+14,"2015-12-25","600 Forest Ave","Palo Alto","CA",NA,"Santa Clara County",6085
+15,"2015-12-24","6801 Northlake Mall Dr","Charlotte","NC",NA,"Mecklenburg County",37119
+16,"2015-12-24","200 N Larson St","Porterville","CA",NA,"Tulare County",6107
+17,"2015-12-24","16486 Pride-Baywood Rd","Pride","LA",NA,"East Baton Rouge Parish",22033
+18,"2015-12-24","US-425","Winnsboro","LA",NA,"Franklin Parish",22041
+19,"2015-12-23","8000 Whitcomb","Dearborn","MI",NA,"Wayne County",26163
+20,"2015-12-22","300 Pennsylvania St NE","Albuquerque","NM",NA,"Bernalillo County",35001
+21,"2015-12-22","2300 Endsley Rd","Brooksville","FL",NA,"Hernando County",12053
+22,"2015-12-22","101 Elmwood Ave","Burlington","VT",NA,"Chittenden County",50007
+23,"2015-12-22","106 Elm St","Ludlow","KY",NA,"Kenton County",21117
+24,"2015-12-21","E 11th Ave and Yosemite St","Denver","CO",NA,"Arapahoe County",8005
+25,"2015-12-21","4085 Midway Rd","Douglasville","GA",NA,"Douglas County",13097
+26,"2015-12-21","Eunice Rd","St Martinville","LA",NA,"St. Martin Parish",22099
+27,"2015-12-21","1400 S State St","Hemet","CA",NA,"Riverside County",6065
+28,"2015-12-21","1700 E Saunders St","Laredo","TX",NA,"Webb County",48479
+29,"2015-12-21","Volunteer Way","Canaan Township","PA",NA,"Wayne County",42127
+30,"2015-12-21","Big Oak Valley Road","Smartsville","CA",NA,"Yuba County",6115
+31,"2015-12-21","Maldive Ct","Deltona","FL",NA,"Volusia County",12127
+32,"2015-12-20","37900 47th St E","Palmdale","CA",NA,"Los Angeles County",6037
+33,"2015-12-20","800 S Travis St","Amarillo","TX",NA,"Potter County",48375
+34,"2015-12-20","Route 1","Danvers","MA",NA,"Essex County",25009
+35,"2015-12-19","Quarry Ln","Concord","VA",NA,"Campbell County",51031
+36,"2015-12-19","2500 Ironwood Court","Hayward","CA",NA,"Alameda County",6001
+37,"2015-12-19","1000 W Carson St","Torrance","CA",NA,"Los Angeles County",6037
+38,"2015-12-18","325 Adobe Rd","Taos","NM",NA,"Taos County",35055
+39,"2015-12-18","1900 Lear Dr","Northwood","OH",NA,"Wood County",39173
+40,"2015-12-18","Homewood Rd","Linthicum Heights","MD",NA,"Anne Arundel County",24003
+41,"2015-12-18","145 Moss Grove Blvd","Knoxville","TN",NA,"Knox County",47093
+42,"2015-12-17","801 10th St","Modesto","CA",NA,"Stanislaus County",6099
+43,"2015-12-17","600 Virginia Ave","Kent","OH",NA,"Portage County",39133
+44,"2015-12-16","200 Carmen Dr","Camarillo","CA",NA,"Ventura County",6111
+45,"2015-12-15","Unknown address","Seattle","WA",NA,"King County",53033
+46,"2015-12-15","U.S. 321 at Hardin Road","Dallas","NC",NA,"Gaston County",37071
+47,"2015-12-14","2500 Long Beach Boulevard","Long Beach","CA",NA,"Los Angeles County",6037
+48,"2015-12-14","W 44th Ave and Yates St","Denver","CO",NA,"Denver, City and County of",8031
+49,"2015-12-14","3800 King Palm Avenue ","Las Vegas","NV",NA,"Clark County",32003
+50,"2015-12-14","6800 Filbro Dr","Gilroy","CA",NA,"Santa Clara County",6085
+51,"2015-12-14","McDonald Loop","Mt Hope","WV",NA,"Fayette County",54019
+52,"2015-12-14","4564 Aviation Street","Las Vegas","NV",NA,"Clark County",32003
+53,"2015-12-14","4000 Bay Dr","Middle River","MD",NA,"Baltimore County",24005
+54,"2015-12-14","Tennessee Hwy 187","Milan","TN",NA,"Gibson County",47053
+55,"2015-12-13","8400 49th Loop SE","Olympia","WA",NA,"Thurston County",53067
+56,"2015-12-13","W Oak St & Fry St","Denton","TX",NA,"Denton County",48121
+57,"2015-12-12","5113 Woodland View Circle","Chattanooga","TN",NA,"Hamilton County",47065
+58,"2015-12-12","7900 Red Mill Drive","Indianapolis","IN",NA,"Marion County",18097
+59,"2015-12-12","Long Beach Boulevard and Magnolia Avenue","Lynwood","CA",NA,"Los Angeles County",6037
+60,"2015-12-12","Chef Menteur Highway and Old Gentilly Road","New Orleans","LA",NA,"Orleans Parish",22071
+61,"2015-12-12","500 Tia Juana St N","San Bernardino","CA",NA,"San Bernardino County",6071
+62,"2015-12-12","698 Kenton St","Aurora","CO",NA,"Arapahoe County",8005
+63,"2015-12-12","355 Lincoln Ave","East Stroudsburg","PA",NA,"Monroe County",42089
+64,"2015-12-12","700 East Mitchell Street","Arlington","TX",NA,"Tarrant County",48439
+65,"2015-12-11","5500 E Sunrise Dr","Tucson","AZ",NA,"Pima County",4019
+66,"2015-12-10","1900 Boling Rd","Taylors","SC",NA,"Greenville County",45045
+67,"2015-12-10","200 E Stetson Ave","Hemet","CA",NA,"Riverside County",6065
+68,"2015-12-10","2200 Conrad Ave","Indianapolis","IN",NA,"Marion County",18097
+69,"2015-12-10","3000 Independence Ave","Marina","CA",NA,"Monterey County",6053
+70,"2015-12-09","1170 Apalachee Pkwy","Tallahassee","FL",NA,"Leon County",12073
+71,"2015-12-09","East 55th Street","Cleveland","OH",NA,"Cuyahoga County",39035
+72,"2015-12-09","Old Rural Hall Road","Winston-Salem","NC",NA,"Forsyth County",37067
+73,"2015-12-09","100 Quail Dr","Sportsmen Acres","OK",NA,"Mayes County",40097
+74,"2015-12-09","4000 St. Paul Road","Leitchfield","KY",NA,"Grayson County",21085
+75,"2015-12-08","Saw Mill River Pkwy","Yonkers","NY",NA,"Westchester County",36119
+76,"2015-12-08","919 N Jefferson Ave","St Louis","MO",NA,"St. Louis, City of",29510
+77,"2015-12-07","177-39 145th Avenue","New York","NY",NA,"Queens County",36081
+78,"2015-12-06","4966 Geraldine Ave","Richmond Heights","OH",NA,"Cuyahoga County",39035
+79,"2015-12-06","35th Ave NE and NE 68th St","Seattle","WA",NA,"King County",53033
+80,"2015-12-06","Wyoming Hwy 130","Laramie","WY",NA,"Albany County",56001
+81,"2015-12-06","1200 Hotel Circle South","San Diego","CA",NA,"San Diego County",6073
+82,"2015-12-05","Avery Dr","Indio","CA",NA,"Riverside County",6065
+83,"2015-12-05","600 Jeff Ct","Irving","TX",NA,"Dallas County",48113
+84,"2015-12-05","Alton Rd","Miami Beach","FL",NA,"Miami-Dade County",12086
+85,"2015-12-05","206 Main St","Neenah","WI",NA,"Winnebago County",55139
+86,"2015-12-05","6600 Foothills Ct","Florissant","MO",NA,"St. Louis County",29189
+87,"2015-12-04","122 Shiloh Street","Pittsburg","PA",NA,"Allegheny County",42003
+88,"2015-12-04","501 E. Seventh Street","Waverly","OH",NA,"Pike County",39131
+89,"2015-12-03","E McDowell Rd and N Power Rd","Mesa","AZ",NA,"Maricopa County",4013
+90,"2015-12-03","405 W Cedar St","Big Springs","NE",NA,"Deuel County",31049
+91,"2015-12-02","1800 E San Bernardino Ave","Redlands","CA",NA,"San Bernardino County",6071
+92,"2015-12-02","1800 E San Bernardino Ave","Redlands","CA",NA,"San Bernardino County",6071
+93,"2015-12-02","Third Street and Fitzgerald Avenue","San Francisco","CA",94124,"San Francisco, City and County of",6075
+94,"2015-12-02","S Country Club Rd","Deming","NM",NA,"Luna County",35029
+95,"2015-12-02","Texas Hwy 16","San Antonio","TX",NA,"Bexar County",48029
+96,"2015-12-02","Lowell Blvd and W 25th Ave","Denver","CO",NA,"Denver, City and County of",8031
+97,"2015-12-01","Imperial Hwy and Pioneer Blvd","Norwalk","CA",NA,"Los Angeles County",6037
+98,"2015-12-01","1105 Hammond St","Bangor","ME",NA,"Penobscot County",23019
+99,"2015-11-30","E Alameda Pkwy and E Kentucky Ave","Aurora","CO",NA,"Arapahoe County",8005
+100,"2015-11-30","300 Spring St NW","Atlanta","GA",NA,"Fulton County",13121
+101,"2015-11-29","1702 18th St","Bakersfield","CA",NA,"Kern County",6029
+102,"2015-11-29","NW Grand Ave and N 111th Ave","Sun City","AZ",NA,"Maricopa County",4013
+103,"2015-11-29","Main St and Livingston St","Celina","OH",NA,"Mercer County",39107
+104,"2015-11-29","2931 N 73rd St","Lincoln","NE",NA,"Lancaster County",31109
+105,"2015-11-29","US-36 and SW Thornton Road","Stewartsville","MO",NA,"DeKalb County",29063
+106,"2015-11-28","600 Fran St","Seagoville","TX",NA,"Dallas County",48113
+107,"2015-11-27","366 Persimmon Hill Ln","Lampe","MO",NA,"Stone County",29209
+108,"2015-11-25","2260 N Golden Ave","Springfield","MO",NA,"Greene County",29077
+109,"2015-11-25","305 N 2nd Ave","Ozark","MO",NA,"Christian County",29043
+110,"2015-11-25","Black Olive Drive","Paradise","CA",NA,"Butte County",6007
+111,"2015-11-25","Black Olive Drive","Paradise","CA",NA,"Butte County",6007
+112,"2015-11-25","66 W 3rd Ave","Eagar","AZ",NA,"Apache County",4001
+113,"2015-11-24","3200 Rutledge Walk","Camden","NJ",NA,"Camden County",34007
+114,"2015-11-24","Cambridge St and E Katie Ave","Las Vegas","NV",NA,"Clark County",32003
+115,"2015-11-24","700 40th Ave NE","Columbia Heights","MN",NA,"Anoka County",27003
+116,"2015-11-23","5000 Concord St","Corpus Christi","TX",NA,"Nueces County",48355
+117,"2015-11-23","90 S Terrace Ave","Columbus","OH",NA,"Franklin County",39049
+118,"2015-11-22","305 S Alcott St","Denver","CO",NA,"Denver, City and County of",8031
+119,"2015-11-22","220 E Grove St","Reno","NV",NA,"Washoe County",32031
+120,"2015-11-22","10510 Sierra Ave","Fontana","CA",NA,"San Bernardino County",6071
+121,"2015-11-21","US-75 and Oklahoma Highway 91","Colbert","OK",NA,"Bryan County",40013
+122,"2015-11-20","Tangelo Ave & San Jacinto Ct","Fontana","CA",NA,"San Bernardino County",6071
+123,"2015-11-20","200 Mt Vernon Church Rd","Dallas","GA",NA,"Paulding County",13223
+124,"2015-11-20","Interstate 85","Palmetto","GA",NA,"Coweta County",13077
+125,"2015-11-19","1045 S 27th Cir","Fort Pierce","FL",NA,"St. Lucie County",12111
+126,"2015-11-19","1010 53rd Ave E","Bradenton","FL",NA,"Manatee County",12081
+127,"2015-11-19","5300 Dix St NE","Washington","DC",NA,"District of Columbia",11001
+128,"2015-11-19","112 E Main St","Barstow","CA",NA,"San Bernardino County",6071
+129,"2015-11-19","Highway 99","Eugene","OR",NA,"Lane County",41039
+130,"2015-11-18","5970 Old Porter Road","Portage","IN",NA,"Porter County",18127
+131,"2015-11-18","1950 E Napier Ave","Benton Harbor","MI",NA,"Berrien County",26021
+132,"2015-11-18","NW 135th St and Sesame St","Opa-locka","FL",NA,"Miami-Dade County",12086
+133,"2015-11-17","1900 Lorick St","Cayce","SC",NA,"Lexington County",45063
+134,"2015-11-17","W 127th Ave and SW 206th St","Miami","FL",NA,"Miami-Dade County",12086
+135,"2015-11-17","Veterans Memorial Dr & Blue Bell Rd","Houston","TX",NA,"Harris County",48201
+136,"2015-11-17","83rd Street and Paseo","Kansas City","MO",64132,"Jackson County",29095
+137,"2015-11-17","510 Wild Oaks Ct","Little Egg Harbor Township","NJ",NA,"Ocean County",34029
+138,"2015-11-17","Bethel Rd and Thompson Rd","Weatherford","TX",NA,"Parker County",48367
+139,"2015-11-17","17017 Highland Ave S","Arlington","GA",NA,"Early County",13099
+140,"2015-11-16","Maddox Mill Rd SE and Chatsworth Hwy","Dalton","GA",NA,"Whitfield County",13313
+141,"2015-11-15","400 W School House Ln","Philadelphia","PA",NA,"Philadelphia County",42101
+142,"2015-11-15","1600 block Plymouth Ave N","Minneapolis","MN",NA,"Hennepin County",27053
+143,"2015-11-15","International Boulevard and 55th Avenue","Oakland","CA",94621,"Alameda County",6001
+144,"2015-11-15","425 Stage Rd","Spring Lake","NC",NA,"Cumberland County",37051
+145,"2015-11-14","40 Massachusetts Ave., NE","Washington","DC",NA,"District of Columbia",11001
+146,"2015-11-14","2985 Rubidoux Blvd","Riverside","CA",NA,"Riverside County",6065
+147,"2015-11-13","Rouselle Dr and Wysocki Ln","Jurupa Valley","CA",NA,"Riverside County",6065
+148,"2015-11-13","1200 US-80","Eden","GA",NA,"Chatham County",13051
+149,"2015-11-13","26 Petty Ln","Trenton","TN",NA,"Gibson County",47053
+150,"2015-11-12","11th Court North and Center Street","Birmingham","AL",35204,"Jefferson County",1073
+151,"2015-11-12","1200 Ayala Dr","Sunnyvale","CA",NA,"Santa Clara County",6085
+152,"2015-11-11","3700 block Oakmont Ave","Baltimore","MD",NA,"Baltimore, City of",24510
+153,"2015-11-11","10500 E Smith Rd","Denver","CO",80239,"Denver, City and County of",8031
+154,"2015-11-11","3555 Cesar Chavez St","San Francisco","CA",NA,"San Francisco, City and County of",6075
+155,"2015-11-11","San Ygnacio Rd SW and Tapia Blvd SW","Albuquerque","NM",NA,"Bernalillo County",35001
+156,"2015-11-11","1304 Pine Dr NW","Aiken","SC",NA,"Aiken County",45003
+157,"2015-11-10","800 Pomona Ave","Chico","CA",NA,"Butte County",6007
+158,"2015-11-10","Frontage Rd and I-15","Dillon","MT",NA,"Beaverhead County",30001
+159,"2015-11-10","US-85 and W Bromley Ln","Brighton","CO",NA,"Adams County",8001
+160,"2015-11-09","1000 Powell Mill Road","Spartanburg","SC",NA,"Spartanburg County",45083
+161,"2015-11-09","State Road 417 and Lake Mary Boulevard","Oveido","FL",32746,"Seminole County",12117
+162,"2015-11-09","State Road 417 and Lake Mary Boulevard","Oveido","FL",32746,"Seminole County",12117
+163,"2015-11-09","Kirby Dr and Eskimo Dr","Laredo","TX",NA,"Webb County",48479
+164,"2015-11-09","4400 Camden Ave","San Jose","CA",NA,"Santa Clara County",6085
+165,"2015-11-09","Andasol Ave and Elkwood St","Los Angeles","CA",NA,"Los Angeles County",6037
+166,"2015-11-09","Three Lick Rd","Orlando","WV",NA,"Lewis County",54041
+167,"2015-11-06","1015 NW 22nd Ave","Portland","OR",NA,"Multnomah County",41051
+168,"2015-11-06","500 Tradewinds Dr","Deltona","FL",NA,"Volusia County",12127
+169,"2015-11-06","Stanback Ferry Ice Plant Rd","Wadesboro","NC",NA,"Anson County",37007
+170,"2015-11-06","S Maryland Pkwy and E Wigwam Ave","Las Vegas","NV",NA,"Clark County",32003
+171,"2015-11-05","Oklahoma Hwy 20","Hominy","OK",NA,"Osage County",40113
+172,"2015-11-05","10100 Puttington Dr","Lakeshire","MO",NA,"St. Louis County",29189
+173,"2015-11-05","Whisper Way","Goose Creek","SC",NA,"Berkeley County",45015
+174,"2015-11-05","1043 Charles Ave","Morgantown","WV",NA,"Monongalia County",54061
+175,"2015-11-04","5200 Lake Rd","Merced","CA",NA,"Merced County",6047
+176,"2015-11-04","Drew St and Nettleton St","Houston","TX",NA,"Harris County",48201
+177,"2015-11-04","2000 E Kearney St","Springfield","MO",NA,"Greene County",29077
+178,"2015-11-04","Grand Ave and Jewell St","San Diego","CA",NA,"San Diego County",6073
+179,"2015-11-03","Martin Luther King Dr","Marksville","LA",NA,"Avoyelles Parish",22009
+180,"2015-11-02","2800 Gainesville St SE","Washington","DC",NA,"District of Columbia",11001
+181,"2015-11-02","200 Lakeshore Dr","Klamath Falls","OR",NA,"Klamath County",41035
+182,"2015-11-01","400 block Comanchee Dr","Opelika","AL",NA,"Lee County",1081
+183,"2015-11-01","2300 Good Hope Rd SE","Washington","DC",NA,"District of Columbia",11001
+184,"2015-11-01","4th Street and Q Street","Eureka","CA",NA,"Humboldt County",6023
+185,"2015-11-01","US-95","Council","ID",NA,"Adams County",16003
+186,"2015-11-01","500 Harmony Ln SW","Hutchinson","MN",NA,"McLeod County",27085
+187,"2015-10-31",NA,"Big Cypress","FL",34141,"Collier County",12021
+188,"2015-10-31","E Platte Ave & N Wahsatch Ave","Colorado Springs","CO",NA,"El Paso County",8041
+189,"2015-10-30","13000 Veterans Memorial","Houston","TX",NA,"Harris County",48201
+190,"2015-10-30","13000 Veterans Memorial","Houston","TX",NA,"Harris County",48201
+191,"2015-10-30","N Town E Blvd and I-635","Mesquite","TX",NA,"Dallas County",48113
+192,"2015-10-30","22279 N Four Mile Rd","Fort Gibson","OK",NA,"Cherokee County",40021
+193,"2015-10-30","6800 KY-61","Burkesville","KY",NA,"Cumberland County",21057
+194,"2015-10-29","2730 Brandy Dr","Columbus","OH",NA,"Franklin County",39049
+195,"2015-10-29","688 NE 368th Ave","Old Town","FL",NA,"Dixie County",12029
+196,"2015-10-29","215 N Park St","Hohenwald","TN",NA,"Lewis County",47101
+197,"2015-10-29","Dennis L. Edwards Tunnel","Forest Grove","OR",NA,"Washington County",41067
+198,"2015-10-28","37th St Connector and Ogeechee Rd","Savannah","GA",NA,"Chatham County",13051
+199,"2015-10-28","200 Century St","Jacksonville","FL",32211,"Duval County",12031
+200,"2015-10-28","I-5","Salem","OR",NA,"Marion County",41047
+201,"2015-10-28","60021 Sizemore Rd","Smithville","MS",NA,"Monroe County",28095
+202,"2015-10-27","4800 N Harbor Dr","San Diego","CA",NA,"San Diego County",6073
+203,"2015-10-26","4307 W Humphrey St.","Tampa","FL",NA,"Hillsborough County",12057
+204,"2015-10-26","7700 Georgia Ave NW","Washington","DC",NA,"District of Columbia",11001
+205,"2015-10-26","1300 E Patrick St","Frederick","MD",NA,"Frederick County",24021
+206,"2015-10-26","Kensington Ave and Huntingdon St","Philadelphia","PA",NA,"Philadelphia County",42101
+207,"2015-10-25","321 Bute Rd","Uniontown","PA",NA,"Fayette County",42051
+208,"2015-10-24","1518 NE 43rd Ln","Cape Coral","FL",NA,"Lee County",12071
+209,"2015-10-24","68200 33rd Ave","Cathedral City","CA",NA,"Riverside County",6065
+210,"2015-10-24","E La Cadena Dr and Iowa Ave","Riverside","CA",NA,"Riverside County",6065
+211,"2015-10-24","2800 Pinkerton Ln","Zanesville","OH",NA,"Muskingum County",39119
+212,"2015-10-24","1600 Carver Mill Rd","Talking Rock","GA",NA,"Pickens County",13227
+213,"2015-10-24","6107 236th Ave","Salem","WI",NA,"Kenosha County",55059
+214,"2015-10-24","Anna Lane and Sterling Hwy","Sterling","AK",NA,"Kenai Peninsula Borough",2122
+215,"2015-10-23","6420 Southeast 15th Street","Midwest City","OK",NA,"Oklahoma County",40109
+216,"2015-10-23",NA,"Casselberry","FL",NA,"Seminole County",12117
+217,"2015-10-22","Garfield Ave & Cypress Ave","Carmichael","CA",NA,"Sacramento County",6067
+218,"2015-10-22","451 Clyde Fant Pkwy","Shreveport","LA",NA,"Caddo Parish",22017
+219,"2015-10-22","1138 Nealy Creek Rd","Pine Top","KY",NA,"Knott County",21119
+220,"2015-10-21","200 East First Street","Calexico","CA",NA,"Imperial County",6025
+221,"2015-10-21","5000 block Ave 309","Visalia","CA",NA,"Tulare County",6107
+222,"2015-10-21","Leopard St","Corpus Christi","TX",NA,"Nueces County",48355
+223,"2015-10-21","1400 Hidden Valley Dr SE","Kentwood","MI",NA,"Kent County",26081
+224,"2015-10-20","6th Ave and F St","San Diego","CA",NA,"San Diego County",6073
+225,"2015-10-20","400 W 111th St","Los Angeles","CA",NA,"Los Angeles County",6037
+226,"2015-10-20",NA,"Truth or Consequences","NM",NA,"Sierra County",35051
+227,"2015-10-20","3200 Ravenwood Terrace NW","Cedar Rapids","IA",NA,"Linn County",19113
+228,"2015-10-20","Armel Rd and Little Creek Rd","Mandeville","LA",NA,"St. Tammany Parish",22103
+229,"2015-10-20","1325 Hurstbourne Parkway","Louisville","KY",NA,"Jefferson County",21111
+230,"2015-10-20","11651 S Jordan Rd","Wakarusa","KS",NA,"Shawnee County",20177
+231,"2015-10-18","PGA Blvd & I-95","Palm Beach","FL",NA,"Palm Beach County",12099
+232,"2015-10-18",NA,"Harlingen","TX",NA,"Cameron County",48061
+233,"2015-10-18",NA,"St. Cloud","MN",NA,"Aitkin County",27001
+234,"2015-10-18","4669 block N Fisher Ave","Fresno","CA",NA,"Fresno County",6019
+235,"2015-10-17","1066 Kelly Dr","York","PA",NA,"York County",42133
+236,"2015-10-17","7559 Midlothian Turnpike","Richmond","VA",NA,"Richmond, City of",51760
+237,"2015-10-17","1310 Santa Rita E","Chula Vista","CA",NA,"San Diego County",6073
+238,"2015-10-17","21st St N & 15th Ave N","Columbus","MS",NA,"Lowndes County",28087
+239,"2015-10-17","4000 E Briggsmore Ave","Modesto","CA",NA,"Stanislaus County",6099
+240,"2015-10-16","800 block Ashcomb Dr","La Puente","CA",NA,"Los Angeles County",6037
+241,"2015-10-16","Melinda Dr","Winder","GA",NA,"Hall County",13139
+242,"2015-10-16","1200 Manhattan Way","Gardernville","NV",NA,"Douglas County",32005
+243,"2015-10-16","900 Panama St","Houston","TX",NA,"Harris County",48201
+244,"2015-10-15","7844 W Tidwell Rd","Houston","TX",NA,"Harris County",48201
+245,"2015-10-15","2660 Noe Bixby Rd","Columbus","OH",NA,"Franklin County",39049
+246,"2015-10-15","SW 137th Ave and SW 280th St","Homestead","FL",NA,"Miami-Dade County",12086
+247,"2015-10-15","Market St and 8th St","San Francisco","CA",NA,"San Francisco, City and County of",6075
+248,"2015-10-15","Santa Monica Blvd and San Vicente Blvd","West Hollywood","CA",NA,"Los Angeles County",6037
+249,"2015-10-15","State Rd & Outerbelt S Fwy","Cleveland","OH",NA,"Cuyahoga County",39035
+250,"2015-10-15","11500 NE 120th St","Kirkland","WA",NA,"King County",53033
+251,"2015-10-15","S Jones Blvd & W Desert Inn Rd","Las Vegas","NV",NA,"Clark County",32003
+252,"2015-10-15",NA,"Davis","CA",NA,"Yolo County",6113
+253,"2015-10-14","AL-3 & Co Hwy 17","Evergreen","AL",NA,"Conecuh County",1035
+254,"2015-10-14","81-990 Shadow Palm Ave","Indio","CA",NA,"Riverside County",6065
+255,"2015-10-14","3 Geary Plaza","Seaside","CA",NA,"Monterey County",6053
+256,"2015-10-14","E Main St & I-75","Catersville","GA",NA,"Bartow County",13015
+257,"2015-10-14","Tamiami Trail East","Naples","FL",NA,"Collier County",12021
+258,"2015-10-12","1362 Union St","Brookhaven","MS",NA,"Lincoln County",28085
+259,"2015-10-11","737 Contour Dr","Lake Charles","LA",NA,"Calcasieu Parish",22019
+260,"2015-10-11","159 Carver Rd","Taylors ","SC",NA,"Greenville County",45045
+261,"2015-10-11","SW Lee Blvd & SW Sheridan Rd","Lawton","OK",NA,"Comanche County",40031
+262,"2015-10-11","5200 block W 40th St","Odessa","TX",NA,"Ector County",48135
+263,"2015-10-11","279 E 5th St","San Bernardino","CA",NA,"San Bernardino County",6071
+264,"2015-10-11","Winthrop Avenue ","Revere","MA",NA,"Suffolk County",25025
+265,"2015-10-10","4400 block Yender Ave","Lisle","IL",NA,"DuPage County",17043
+266,"2015-10-10","1750 Boston Post Rd","Old Saybrook","CT",NA,"Middlesex County",9007
+267,"2015-10-10","Snow Cap Avenue and Cygnet Road","Pinon Hills","CA",NA,"San Bernardino County",6071
+268,"2015-10-10","Balch St","Beverly","MA",NA,"Essex County",25009
+269,"2015-10-09","6400 Cardinal Ln","Columbia","MD",NA,"Howard County",24027
+270,"2015-10-09","44000 block Jacob Court","Aguanga","CA",NA,"Riverside County",6065
+271,"2015-10-09","8072 Townline Road","Lakeview","MI",NA,"Montcalm County",26117
+272,"2015-10-07","600 block Mercury St.","West Palm Beach","FL",NA,"Palm Beach County",12099
+273,"2015-10-06","220 Olivier St","Monterey","CA",NA,"Monterey County",6053
+274,"2015-10-05","Freddie Ave","Woodbridge Township","NJ",NA,"Middlesex County",34023
+275,"2015-10-05","1300 block West Redbud Drive","Hurst","TX",NA,"Tarrant County",48439
+276,"2015-10-04","3500 block W. Grenshaw St","Chicago","IL",NA,"Cook County",17031
+277,"2015-10-04","2nd St","Muscle Shoals","AL",NA,"Colbert County",1033
+278,"2015-10-03","Emily St and Superior Ave","East Cleveland","OH",44112,"Cuyahoga County",39035
+279,"2015-10-03","Sepulveda Blvd and Victory Blvd","Los Angeles","CA",NA,"Los Angeles County",6037
+280,"2015-10-02","1519 Avenida Del Sol","Sierra Vista","AZ",NA,"Cochise County",4003
+281,"2015-10-02","200 S Linden Ave","Rialto","CA",92376,"San Bernardino County",6071
+282,"2015-10-02","18000 SW Shaw St","Aloha","OR",NA,"Washington County",41067
+283,"2015-10-02","14800 Xit Trail","Amarillo","TX",NA,"Randall County",48381
+284,"2015-09-30","500 block Watkins St","Mora","MN",NA,"Kanabec County",27065
+285,"2015-09-30","100 Rattlesnake Point Rd","Rockport","TX",NA,"Aransas County",48007
+286,"2015-09-29","W Virginia Turnpike","Beckley","WV",NA,"Raleigh County",54081
+287,"2015-09-29","20 Signal Dr","Rapid City","SD",NA,"Pennington County",46103
+288,"2015-09-28","NW 119th St & I-95","North Miami","FL",NA,"Miami-Dade County",12086
+289,"2015-09-28","1100 block W San Ysidro Blvd","San Diego","CA",NA,"San Diego County",6073
+290,"2015-09-28",NA,"San Jose","CA",NA,"Santa Clara County",6085
+291,"2015-09-27","2100 S San Pedro St","Los Angeles","CA",NA,"Los Angeles County",6037
+292,"2015-09-27","600 block Robinson Rd","Ponder","TX",NA,"Denton County",48121
+293,"2015-09-27","25 Cochran Dr","Rossville","GA",NA,"Walker County",13295
+294,"2015-09-26","6648 Maplewood Dr","Baton Rouge","LA",NA,"East Baton Rouge Parish",22033
+295,"2015-09-26","W Jefferson Ave","Lovington","NM",NA,"Lea County",35025
+296,"2015-09-26","US Hwy 27 & Holly Springs Rd","Carrollton","GA",NA,"Carroll County",13045
+297,"2015-09-26","US Hwy 27 & Holly Springs Rd","Carrollton","GA",NA,"Carroll County",13045
+298,"2015-09-25","906 N Central Park Ave","Chicago","IL",NA,"Cook County",17031
+299,"2015-09-25","S Orange Ave and E El Monte Way","Fresno","CA",NA,"Fresno County",6019
+300,"2015-09-25","9200 block S. Steven Trail","Wilhoit","AZ",NA,"Yavapai County",4025
+301,"2015-09-25","500 block North Main St","Akron","OH",NA,"Summit County",39153
+302,"2015-09-24","11201 SW 197th St","Miami","FL",NA,"Miami-Dade County",12086
+303,"2015-09-24","600 block S. Canton St","St Paul","MN",NA,"Ramsey County",27123
+304,"2015-09-24","775 Legend Oak Dr","Fountain","CO",NA,"El Paso County",8041
+305,"2015-09-24","S Emerson Ave and E Southport Rd","Indianapolis","IN",NA,"Marion County",18097
+306,"2015-09-23","1800 block Tulip Street","Wilmington","DE",NA,"New Castle County",10003
+307,"2015-09-23","838 S. Roberta St","Salt Lake City","UT",NA,"Salt Lake County",49035
+308,"2015-09-23","47 Main St","Reisterstown","MD",NA,"Baltimore County",24005
+309,"2015-09-23","1300 Eldorado Pkwy","McKinney","TX",NA,"Collin County",48085
+310,"2015-09-23","12000 block Comers Rock Rd","Troutdale","VA",NA,"Grayson County",51077
+311,"2015-09-22","17199 E 14th St","Haywood","CA",NA,"Alameda County",6001
+312,"2015-09-22","100 block Spur Ranch Ave","North Las Vegas","NV",NA,"Clark County",32003
+313,"2015-09-22","FL-40 & Co Rd 3","Barberville","FL",NA,"Volusia County",12127
+314,"2015-09-22","148 W John Sims Pkwy","Niceville","FL",NA,"Okaloosa County",12091
+315,"2015-09-22","6700 Odessa Way","Anderson","CA",NA,"Shasta County",6089
+316,"2015-09-21","738 Canton Rd","Akron","OH",NA,"Summit County",39153
+317,"2015-09-21","10830 Stone Canyon Rd","Dallas","TX",NA,"Dallas County",48113
+318,"2015-09-21","1200 Dixie Drive","Auburndale","FL",NA,"Polk County",12105
+319,"2015-09-21","US-82 & US-271","Paris","TX",NA,"Lamar County",48277
+320,"2015-09-21","2040 California Ave","Sand City","CA",NA,"Monterey County",6053
+321,"2015-09-21","2040 California Ave","Sand City","CA",NA,"Monterey County",6053
+322,"2015-09-20","1700 Park Rd","Harrisonburg","VA",NA,"Rockingham County",51165
+323,"2015-09-20","800 block W Washington St","Shelbyville","IN",NA,"Shelby County",18145
+324,"2015-09-20","1200 block Pipestone Rd","Benton Harbor","MI",NA,"Berrien County",26021
+325,"2015-09-19","6400 Marine Dr","Marysville","WA",NA,"Snohomish County",53061
+326,"2015-09-19","Gause Blvd & I-10","Slidell","LA",NA,"St. Tammany Parish",22103
+327,"2015-09-18","19250 Co Rd 34","St. Stephens","AL",NA,"Washington County",1129
+328,"2015-09-18","34.198852, -117.371539","San Bernardino","CA",NA,"San Bernardino County",6071
+329,"2015-09-18","1420 Freeman Loop","Cumberland Furnace","TN",NA,"Dickson County",47043
+330,"2015-09-17","Shock Rd and Dale Rd","Beaverton","MI",NA,"Gladwin County",26051
+331,"2015-09-17","Dug Hill Rd","Brodhead","KY",NA,"Rockcastle County",21203
+332,"2015-09-16","4400 block Lee St.","Alexandria","LA",NA,"Rapides Parish",22079
+333,"2015-09-16","4100 block Willimet St","Los Angeles","CA",NA,"Los Angeles County",6037
+334,"2015-09-16","16020 SW 42nd Terrace","Miami","FL",NA,"Miami-Dade County",12086
+335,"2015-09-16","N Cactus Ave and W Rosewood St","Rialto","CA",NA,"San Bernardino County",6071
+336,"2015-09-16","Canam Hwy and Rochford Rd","Lead","SD",NA,"Lawrence County",46081
+337,"2015-09-15","St. Bernard Highway and Andres Street","Chalmette","LA",NA,"St. Bernard Parish",22087
+338,"2015-09-15","Parthenia St and Cedros Ave","Los Angeles","CA",NA,"Los Angeles County",6037
+339,"2015-09-15","700 Armory Rd","Barstow","CA",NA,"San Bernardino County",6071
+340,"2015-09-14","3032 Slippery Elm Dr","Raleigh","NC",27610,"Wake County",37183
+341,"2015-09-14","500 Reformatory St","Hutchinson","KS",67501,"Reno County",20155
+342,"2015-09-13","I-24","Eddyville","KY",42038,"Lyon County",21143
+343,"2015-09-13","Georgia Avenue and Dairy Road","Baker","FL",NA,"Okaloosa County",12091
+344,"2015-09-13","Unknown","Clute","TX",NA,"Brazoria County",48039
+345,"2015-09-13","1000 Hwy 22","Wellman","IA",NA,"Washington County",19183
+346,"2015-09-12","8105 Ball Camp Pike","Knoxville","TN",NA,"Knox County",47093
+347,"2015-09-12","W 8th St & Woodlawn Ave","Sylacauga","AL",NA,"Talladega County",1121
+348,"2015-09-11","18533 Old US Hwy 81","Pond Creek","OK",NA,"Grant County",40053
+349,"2015-09-11","612 Highland Ave","Chester","PA",NA,"Delaware County",42045
+350,"2015-09-11","12175 W Dillon Rd","Broomfield","CO",NA,"Boulder County",8013
+351,"2015-09-10","401 Swan St","Potsdam","NY",NA,"St. Lawrence County",36089
+352,"2015-09-10","6775 Dunsany Ln","Indianapolis","IN",NA,"Marion County",18097
+353,"2015-09-10","9243 Lakewood Blvd","Downey","CA",NA,"Los Angeles County",6037
+354,"2015-09-10","16700 block Valley Boulevard","Fontana","CA",NA,"San Bernardino County",6071
+355,"2015-09-10","Chestnut Street and Pleasant Avenue","Lodi","CA",NA,"San Joaquin County",6077
+356,"2015-09-09","3900 block Glen Way","El Monte","CA",NA,"Los Angeles County",6037
+357,"2015-09-09","4408 Monroe Avenue","Kansas City","MO",NA,"Jackson County",29095
+358,"2015-09-09","Bradway Road and Dennis Road","North Pole","AK",NA,"Fairbanks North Star Borough",2090
+359,"2015-09-09","1978 Holmgren Way","Green Bay","WI",NA,"Brown County",55009
+360,"2015-09-08","Davis Rd and Wilbur St","Fairbanks","AK",NA,"Fairbanks North Star Borough",2090
+361,"2015-09-08","1000 block Abington Rd.","Akron","OH",NA,"Summit County",39153
+362,"2015-09-07","8500 block Whitcomb Ave","Detroit","MI",NA,"Wayne County",26163
+363,"2015-09-07","Clovis Ave and E Lansing Way","Fresno","CA",NA,"Fresno County",6019
+364,"2015-09-07","286 Howard Road","Puryear","TN",NA,"Henry County",47079
+365,"2015-09-07","1209 E Park St","Hobbs","NM",NA,"Lea County",35025
+366,"2015-09-06","2900 block Holly St.","Shreveport","LA",NA,"Caddo Parish",22017
+367,"2015-09-06","2482 SW 3rd St","Miami","FL",NA,"Miami-Dade County",12086
+368,"2015-09-06","460 Nm Highway 528","Bernalillo","NM",NA,"Sandoval County",35043
+369,"2015-09-06","243 Smith St","Providence","RI",NA,"Providence County",44007
+370,"2015-09-06",NA,"Omaha","NE",NA,"Douglas County",31055
+371,"2015-09-05","1700 block Angier Ave","Durham","NC",NA,"Durham County",37063
+372,"2015-09-05","Lynnhaven Pkwy and Salem Rd","Virginia Beach","VA",NA,"Virginia Beach, City of",51810
+373,"2015-09-05","Lynnhaven Pkwy and Salem Rd","Virginia Beach","VA",NA,"Virginia Beach, City of",51810
+374,"2015-09-05","400 E Philadelphia St","Ontario","CA",NA,"San Bernardino County",6071
+375,"2015-09-05","3200 block Ladoga Ave","Long Beach","CA",NA,"Los Angeles County",6037
+376,"2015-09-04","500 block N Mentzer St","Mitchell","SD",NA,"Davison County",46035
+377,"2015-09-04","8399 W Ohio St","French Lick","IN",NA,"Orange County",18117
+378,"2015-09-04","CA 169 and CA 96","Weitchpec","CA",NA,"Humboldt County",6023
+379,"2015-09-04","100 Couch Ct","Springtown","TX",NA,"Parker County",48367
+380,"2015-09-04","E Main St and N 2nd St","Girardville","PA",NA,"Schuylkill County",42107
+381,"2015-09-03","8 Joppa Rd","Merrimack","NH",NA,"Hillsborough County",33011
+382,"2015-09-02","4355 Marlow Rd","Prescott","AZ",NA,"Yavapai County",4025
+383,"2015-09-01","211 Federal St","Bluefield","WV",NA,"Mercer County",54055
+384,"2015-09-01","Hawthorne Ave and Demarest St","Newark","NJ",NA,"Essex County",34013
+385,"2015-09-01","2425 Sherwin Dr","Twinsburg","OH",NA,"Summit County",39153
+386,"2015-09-01","1775 W Loop 281","Longview","TX",NA,"Gregg County",48183
+387,"2015-09-01","1804 W Feather Ave","Artesia","NM",NA,"Eddy County",35015
+388,"2015-08-31","E Liberty St & Walnut St","Cincinnati","OH",NA,"Hamilton County",39061
+389,"2015-08-31","3451 Mountain Lion Drive","Loveland","CO",NA,"Larimer County",8069
+390,"2015-08-31","27 GA-208","Hamilton","GA",NA,"Harris County",13145
+391,"2015-08-30","5800 block S Southland Blvd","Tucson","AZ",NA,"Pima County",4019
+392,"2015-08-30","500 block S Little Ave","Cushing","OK",NA,"Payne County",40119
+393,"2015-08-29","Losee Rd and E Sharp Cir","North Las Vegas","NV",NA,"Clark County",32003
+394,"2015-08-29","19th Street and South Ashland Avenue","Chicago","IL",NA,"Cook County",17031
+395,"2015-08-29","6500 Spring Branch St","San Antonio","TX",NA,"Bexar County",48029
+396,"2015-08-28","Beekman Ave and Tecumseh Ave","Mt. Vernon","NY",NA,"Westchester County",36119
+397,"2015-08-28","24400 Walnut Pass","San Antonio","TX",NA,"Bexar County",48029
+398,"2015-08-28","1775 W Loop 281","Longview","TX",NA,"Gregg County",48183
+399,"2015-08-28","300 E Center St","Spanish Fork","UT",NA,"Utah County",49049
+400,"2015-08-28","5644 Mission Center Rd","San Diego","CA",NA,"San Diego County",6073
+401,"2015-08-27","200 MacArthur Blvd and Van Buren Ave","Oakland","CA",NA,"Alameda County",6001
+402,"2015-08-27","3600 block Penelope St.","Dallas","TX",NA,"Dallas County",48113
+403,"2015-08-27","6000 block N 7th St","Kansas City","KS",NA,"Wyandotte County",20209
+404,"2015-08-27","14600 Valerio St","Los Angeles","CA",NA,"Los Angeles County",6037
+405,"2015-08-27","150 W Hedding St","San Jose","CA",95110,"Santa Clara County",6085
+406,"2015-08-26","Indian Lake Blvd and Vietnam Veterans Blvd","Hendersonville","TN",NA,"Sumner County",47165
+407,"2015-08-26","6420 W 9500 S","West Jordan","UT",NA,"Salt Lake County",49035
+408,"2015-08-26","5900 TN-153","Hixson","TN",NA,"Hamilton County",47065
+409,"2015-08-25","201 W Market St","West Chester","PA",NA,"Chester County",42029
+410,"2015-08-25","13200 NW 7th Ave","Miami","FL",NA,"Miami-Dade County",12086
+411,"2015-08-25","Cerrillos Road and Beckner Road","Santa Fe","NM",NA,"Santa Fe County",35049
+412,"2015-08-25","11008 Smoken Gun Lane","Thonotosassa","FL",NA,"Hillsborough County",12057
+413,"2015-08-25","W McDowell Rd and N 35th Ave","Phoenix","AZ",NA,"Maricopa County",4013
+414,"2015-08-23","47 Cherrywood Cir","Brick","NJ",NA,"Ocean County",34029
+415,"2015-08-23","9400 Old Plank Rd","Jacksonville","FL",NA,"Duval County",12031
+416,"2015-08-23","104 Mae Matilda Ct","Archdale","NC",NA,"Randolph County",37151
+417,"2015-08-23","400 block Lakehurst Rd","Las Vegas","NV",NA,"Clark County",32003
+418,"2015-08-23","County Road 1825","Arab","AL",NA,"Marshall County",1095
+419,"2015-08-22","5th Ave & 112th St","Troy","NY",NA,"Rensselaer County",36083
+420,"2015-08-22","1215 Olive Drive","Bakersfield","CA",NA,"Kern County",6029
+421,"2015-08-22","400 block 2nd Street","Cohasset","MN",NA,"Itasca County",27061
+422,"2015-08-22","10000 block Tinsbloom Mill Lane","King George","VA",NA,"King George County",51099
+423,"2015-08-22","6100 block West Kellogg Dr.","Wichita","KS",NA,"Sedgwick County",20173
+424,"2015-08-22","County Road 293","New Albany","MS",38652,"Union County",28145
+425,"2015-08-21","1117 Chamberwell Ave.","Wake Forest","NC",NA,"Wake County",37183
+426,"2015-08-21","75 North East Plaza","North East","MD",NA,"Cecil County",24015
+427,"2015-08-21","100 block E. Huckleberry Drive","Grapeview","WA",NA,"Mason County",53045
+428,"2015-08-21","N 101st St & E Bayview Dr","Scottsdale","AZ",85258,"Maricopa County",4013
+429,"2015-08-20","S Archibald Ave & E Riverside Dr","Ontario","CA",NA,"San Bernardino County",6071
+430,"2015-08-20","Fair Ave","Beverly","OH",NA,"Washington County",39167
+431,"2015-08-20","3202 University Boulevard East","Tuscaloosa","AL",NA,"Tuscaloosa County",1125
+432,"2015-08-19","Woodward Avenue and Square Lake Road","Bloomfield Hills","MI",NA,"Oakland County",26125
+433,"2015-08-19","1243 Walton Ave","St Louis","MO",NA,"St. Louis County",29189
+434,"2015-08-19","Highway 25 and Lemon St","Hunters","WA",NA,"Stevens County",53065
+435,"2015-08-19","2501 Stamey Cove Rd","Waynesville","NC",NA,"Haywood County",37087
+436,"2015-08-17","4204 Hoffman St","Houston","TX",NA,"Harris County",48201
+437,"2015-08-17","Stoneyhaven Way and Kirkhaven Ct San Jose, California","San Jose","CA",NA,"Santa Clara County",6085
+438,"2015-08-16","3100 block Senter Road","San Jose","CA",NA,"Santa Clara County",6085
+439,"2015-08-16","711-045 Center Rd","Susanville","CA",96130,"Lassen County",6035
+440,"2015-08-16","1100 Linda Joy Dr","Kerrville","TX",NA,"Kerr County",48265
+441,"2015-08-15","12701 Schabarum Ave","Irwindale","CA",NA,"Los Angeles County",6037
+442,"2015-08-15","4136 Montez Dr","Carson City","NV",NA,"Carson City, Consolidated Municipality of",32510
+443,"2015-08-15","4467 US-395","Inyokern","CA",NA,"Kern County",6029
+444,"2015-08-15","4012 W 400 S Rd","Hanover","IN",NA,"Jefferson County",18077
+445,"2015-08-14","15 Destiny Ct","New York","NY",NA,"Richmond County",36085
+446,"2015-08-14","Walker Mill Rd & Marlboro Pike","Spauldings","MD",NA,"Prince George's County",24033
+447,"2015-08-14","711 River Rd","Boerne","TX",NA,"Kendall County",48259
+448,"2015-08-14","US-44 and US-6","Bolton","CT",NA,"Tolland County",9013
+449,"2015-08-13","700 block San Aleso Ave","Sunnyvale","CA",NA,"Santa Clara County",6085
+450,"2015-08-12","27th Street and Martin Luther King Jr. Way","Oakland","CA",NA,"Alameda County",6001
+451,"2015-08-12","1137 Earl St.","Toledo","OH",NA,"Lucas County",39095
+452,"2015-08-12","Marlton Avenue and Santo Tomas Drive","Los Angeles","CA",NA,"Los Angeles County",6037
+453,"2015-08-12","Cawston Ave. and Acacia Ave.","Hemet","CA",NA,"Riverside County",6065
+454,"2015-08-12","225 E Teague Dr","Hobbs","NM",NA,"Lea County",35025
+455,"2015-08-11","3838 Andrews Hwy","Odessa","TX",NA,"Ector County",48135
+456,"2015-08-11","1000 Ruth Ave","Sandpoint","ID",NA,"Bonner County",16017
+457,"2015-08-11","3801 N 19th St","Waco","TX",NA,"McLennan County",48309
+458,"2015-08-10","3300 block N Butler Ave","Indianapolis","IN",NA,"Marion County",18097
+459,"2015-08-10","E Guadalupe Rd & N Val Vista Dr.","Gilbert","AZ",NA,"Maricopa County",4013
+460,"2015-08-09","San Antonio Ave and Packing Pl","San Jose","CA",NA,"Santa Clara County",6085
+461,"2015-08-09","101 North Main Street","Pittston","PA",NA,"Luzerne County",42079
+462,"2015-08-09","1000 Bailey St SE","Ardmore","OK",NA,"Carter County",40019
+463,"2015-08-08","Schultz Lake Rd","Summerville","SC",NA,"Dorchester County",45035
+464,"2015-08-08","426 E Arlington Blvd","Greenville","NC",NA,"Pitt County",37147
+465,"2015-08-08","3rd street and Kenney street","Brookshire","TX",NA,"Waller County",48473
+466,"2015-08-08","600 block E Sanson Ave","Spokane","WA",NA,"Spokane County",53063
+467,"2015-08-08","4908 Greenwood Drive","Gastonia","NC",NA,"Gaston County",37071
+468,"2015-08-07","3200 E Artesia Blvd","Long Beach","CA",NA,"Los Angeles County",6037
+469,"2015-08-07","1400 I-20","Arlington","TX",NA,"Tarrant County",48439
+470,"2015-08-07","6900 Berkshire Pl","Las Vegas","NV",NA,"Clark County",32003
+471,"2015-08-07","W Shaw Ave & N Hayes Ave","Fresno","CA",NA,"Fresno County",6019
+472,"2015-08-07","Fifth St. and Penn St.","Superior","MT",NA,"Mineral County",30061
+473,"2015-08-07","38 Kelsey St","Hartford","CT",NA,"Hartford County",9003
+474,"2015-08-06","4024 Dyer St","El Paso","TX",NA,"El Paso County",48141
+475,"2015-08-06","2150 Flat Shoals Rd","Decatur","GA",NA,"DeKalb County",13089
+476,"2015-08-06","159 Seneca Trail","Elsmere","KY",NA,"Kenton County",21117
+477,"2015-08-05","2100 block West Cary Street","Richmond","VA",NA,"Richmond, City of",51760
+478,"2015-08-05","Keopuolani Regional Park","Kahului","HI",NA,"Maui County",15009
+479,"2015-08-05","901 Bell Rd","Nashville","TN",NA,"Davidson County",47037
+480,"2015-08-05","300 S 1st St","Louisville","KY",NA,"Jefferson County",21111
+481,"2015-08-05","S. 56th and Washington Street","Tacoma","WA",NA,"Pierce County",53053
+482,"2015-08-05","9050 W. Waterford Square","Greenfield","WI",NA,"Milwaukee County",55079
+483,"2015-08-04","Las Pulgas Rd & I-5","Oceanside","CA",NA,"San Diego County",6073
+484,"2015-08-03","801 W Champaign Ave","Rantoul","IL",NA,"Champaign County",17019
+485,"2015-08-03","3800 block Martin Luther King Jr. Way","Oakland","CA",NA,"Alameda County",6001
+486,"2015-08-03","2703 Horseshoe Pike","Palmyra","PA",NA,"Lebanon County",42075
+487,"2015-08-03","2100 block S Pershing Dr","Muncie","IN",NA,"Delaware County",18035
+488,"2015-08-03","2100 block Urbine Rd","Powhatan","VA",NA,"Powhatan County",51145
+489,"2015-08-02","9900 Beechnut St","Houston","TX",NA,"Harris County",48201
+490,"2015-08-01","N Stone Ave and W Prince Rd","Tucson","AZ",NA,"Pima County",4019
+491,"2015-08-01","307 Broadway Ave","Nitro","WV",NA,"Kanawha County",54039
+492,"2015-08-01","111 W Commerce St.","Dallas","TX",NA,"Dallas County",48113
+493,"2015-07-31","515 Houston St","Fort Worth","TX",76102,"Tarrant County",48439
+494,"2015-07-31","Interstate 25 and Avenida Cesar Chavez","Albuquerque","NM",87102,"Bernalillo County",35001
+495,"2015-07-31","3000 North Main","Roswell","NM",88201,"Chaves County",35005
+496,"2015-07-31","Monument Peak Dr","Gardnerville","NV",89460,"Douglas County",32005
+497,"2015-07-30","3 May St","Worcester","MA",1610,"Worcester County",25027
+498,"2015-07-30","Lombard St and Pierce St","San Francisco","CA",94123,"San Francisco, City and County of",6075
+499,"2015-07-30","Interstate 5 and Mott Airport Rd","Mt. Shasta","CA",96067,"Siskiyou County",6093
+500,"2015-07-29","4100 W Brookstown Dr","Baton Rouge","LA",70805,"East Baton Rouge Parish",22033
+501,"2015-07-29","755 N Valley Dr","Las Cruces","NM",88005,"DoÃ±a Ana County",35013
+502,"2015-07-29","12000 Rose Hedge Dr","Whittier","CA",90606,"Los Angeles County",6037
+503,"2015-07-28","601 AR-18","Manila","AR",72442,"Mississippi County",5093
+504,"2015-07-28","346 N 200 E","Logan","UT",84321,"Cache County",49005
+505,"2015-07-28","1400 Oak Tree Ln SE","Cleveland","TN",37311,"Bradley County",47011
+506,"2015-07-27","1841 19th St","Boulder","CO",80302,"Boulder County",8013
+507,"2015-07-27","100 E Selwood Ln","Columbia","SC",29212,"Lexington County",45063
+508,"2015-07-27","E Woodlawn Ranch Rd","Houma","LA",70363,"Terrebonne Parish",22109
+509,"2015-07-26","3200 Exposition Ave","Shreveport","LA",71109,"Caddo Parish",22017
+510,"2015-07-26","1003 By Pass 123","Seneca","SC",29678,"Oconee County",45073
+511,"2015-07-25","I-75","Micanopy","FL",32667,"Alachua County",12001
+512,"2015-07-25","3040 E Charleston Blvd","Las Vegas","NV",89104,"Clark County",32003
+513,"2015-07-25","998 Yates Spring Rd","Brinson","GA",39825,"Decatur County",13087
+514,"2015-07-25","Caffin Ave and Chartres St","New Orleans","LA",70117,"Orleans Parish",22071
+515,"2015-07-24","Mill St","Pinnacle","NC",27043,"Stokes County",37169
+516,"2015-07-24","12185 Ventura Blvd","Studio City","CA",91604,"Los Angeles County",6037
+517,"2015-07-23","318 Springbrook Blvd","Dayton","OH",45405,"Montgomery County",39113
+518,"2015-07-23","650 W Flintlake Ct","Myrtle Beach","SC",29579,"Horry County",45051
+519,"2015-07-23","Crystal Ln","Meadow Vista","CA",95722,"Placer County",6061
+520,"2015-07-23","14420 N 28th Pl","Plymouth","MN",55447,"Hennepin County",27053
+521,"2015-07-23","Anderson Dairy Rd","Douglas","WY",82633,"Converse County",56009
+522,"2015-07-23","Windover Drive and Kirkman Road","Orlando","FL",32819,"Orange County",12095
+523,"2015-07-22","1300 NE 24th St","Oklahoma City","OK",73111,"Oklahoma County",40109
+524,"2015-07-22","800 Riverside Dr","Philadelphia","PA",19154,"Philadelphia County",42101
+525,"2015-07-22","105 N Front St","Texarkana","AR",75501,"Miller County",5091
+526,"2015-07-22","1000 12th St","Monroe","WI",53566,"Green County",55045
+527,"2015-07-22","Interstate 94 and Beaconsfield Road","St. Clair Shores","MI",48066,"Macomb County",26099
+528,"2015-07-21","538 Spring Place Rd NE","NE White","GA",30184,"Bartow County",13015
+529,"2015-07-21","1300 NE 50th Ct","Oakland Park","FL",33334,"Broward County",12011
+530,"2015-07-21","114 Briar Branch Dr","Jesup","GA",31545,"Wayne County",13305
+531,"2015-07-20","4700 Baffin Ave","Fremont","CA",94536,"Alameda County",6001
+532,"2015-07-20","2700 Broadway Street","Houston","TX",77017,"Harris County",48201
+533,"2015-07-20","800 Northwest Mall","Houston","TX",77092,"Harris County",48201
+534,"2015-07-20","3000 West Pershing Road","Chicago","IL",60632,"Cook County",17031
+535,"2015-07-20","1800 County Line Rd","Winnie","TX",77665,"Chambers County",48071
+536,"2015-07-20","1600 S Choctaw Rd","Choctaw","OK",73020,"Oklahoma County",40109
+537,"2015-07-19","Rice St and Valencia St","Cincinnati","OH",45219,"Hamilton County",39061
+538,"2015-07-18","909 W Visalia Rd","Farmersville","CA",93223,"Tulare County",6107
+539,"2015-07-18","1225 W Prospect Rd","Fort Collins","CO",80526,"Larimer County",8069
+540,"2015-07-18","W Morten Ave and N 42nd Ln","Phoenix","AZ",85051,"Maricopa County",4013
+541,"2015-07-18","500 E 5th St","Colby","KS",67701,"Thomas County",20193
+542,"2015-07-18","3400 Goodman Rd","Olive Branch","MS",38654,"DeSoto County",28033
+543,"2015-07-17","5799 Winchester Rd","Memphis","TN",38115,"Shelby County",47157
+544,"2015-07-17","1637 Watauga Ave","Orlando","FL",32812,"Orange County",12095
+545,"2015-07-17","2400 W University Blvd","Brownsville","TX",78520,"Cameron County",48061
+546,"2015-07-17","NE 65th St","Seattle","WA",98115,"King County",53033
+547,"2015-07-17","4100 Needles Hwy","Needles","CA",92363,"San Bernardino County",6071
+548,"2015-07-16","4051 Amnicola Hwy","Chattanooga","TN",37406,"Hamilton County",47065
+549,"2015-07-16","25001 Sunnymead Blvd","Moreno Valley","CA",92553,"Riverside County",6065
+550,"2015-07-16","SW 328th St & Redland Rd","Homestead","FL",33030,"Miami-Dade County",12086
+551,"2015-07-16","8500 Glencoe Cir","Wauwatosa","WI",53226,"Milwaukee County",55079
+552,"2015-07-16","200 Stinson Ave","Cheyenne","WY",82007,"Laramie County",56021
+553,"2015-07-16","US-84","Opp","AL",36467,"Covington County",1039
+554,"2015-07-16","Interstate 35 and Hwy 69","Kansas City","KS",66205,"Wyandotte County",20209
+555,"2015-07-15","600 Rose Ave","Los Angeles","CA",90291,"Los Angeles County",6037
+556,"2015-07-15","M-115 & 20 Mile Rd","Marion","MI",49665,"Osceola County",26133
+557,"2015-07-14","2300 Taylor St","Mascotte","FL",34753,"Lake County",12069
+558,"2015-07-14","Phalanx Mills Herner Rd","Southington","OH",44470,"Trumbull County",39155
+559,"2015-07-13","701 Calvit St","Hempstead","TX",77445,"Waller County",48473
+560,"2015-07-13","54 Jefferson St","Lynn","MA",1902,"Essex County",25009
+561,"2015-07-13","Katherine St","Dunsmuir","CA",96025,"Siskiyou County",6093
+562,"2015-07-13","375 1st Ave E","Hendersonville","NC",28792,"Henderson County",37089
+563,"2015-07-13","3505 Sullivant Ave","Columbus","OH",43204,"Franklin County",39049
+564,"2015-07-12","5130 E Ponce De Leon Ave","Stone Mountain","GA",30083,"DeKalb County",13089
+565,"2015-07-12","320 S State Road 7","Plantation","FL",33317,"Broward County",12011
+566,"2015-07-12","4501 W Kentucky Ave","Denver","CO",80219,"Denver, City and County of",8031
+567,"2015-07-12","116 Lathrop Ave","River Forest","IL",60305,"Cook County",17031
+568,"2015-07-12","1654 Kit Carson Ave","Casper","WY",82604,"Natrona County",56025
+569,"2015-07-12","9400 Claxton Dr","Austin","TX",78736,"Travis County",48453
+570,"2015-07-11","5100 Rock Pl Dr SW","Stone Mountain","GA",30087,"Gwinnett County",13135
+571,"2015-07-11","1600 9th Ave","Olivehurst","CA",95961,"Yuba County",6115
+572,"2015-07-10","Brown Bridge Rd and Charleston Pl","Covington","GA",30016,"Newton County",13217
+573,"2015-07-10","226 49th Ave E","Tuscaloosa","AL",35404,"Tuscaloosa County",1125
+574,"2015-07-10","5600 W Sahara Ave","Las Vegas","NV",89146,"Clark County",32003
+575,"2015-07-09","Blenheim Park","Kansas City","MO",64132,"Jackson County",29095
+576,"2015-07-09","7500 S Langley Ave","Chicago","IL",60619,"Cook County",17031
+577,"2015-07-09","800 S Sycamore Ave","Los Angeles","CA",92083,"Los Angeles County",6037
+578,"2015-07-09","15215 Fern Ave","Boulder Creek","CA",95006,"Santa Cruz County",6087
+579,"2015-07-09","200 S and 800 W","Parowan","UT",84761,"Iron County",49021
+580,"2015-07-09","N 19th Ave and W Cactus Rd","Phoenix","AZ",85029,"Maricopa County",4013
+581,"2015-07-08","Unknown","Stonewall","MS",39355,"Clarke County",28023
+582,"2015-07-08","10405 SW Denney Rd","Beaverton","OR",97008,"Washington County",41067
+583,"2015-07-08","Shatley Springs Rd","Crumpler","NC",28617,"Ashe County",37009
+584,"2015-07-07","1200 Tiny Tree Dr","Missouri City","TX",77489,"Fort Bend County",48157
+585,"2015-07-07","405 N Pennsylvania Ave","Atlantic City","NJ",8401,"Atlantic County",34001
+586,"2015-07-07","4000 Lopez Dr","Edinburg","TX",78542,"Hidalgo County",48215
+587,"2015-07-07","5201 Monitor St","Bakersfield","CA",93307,"Kern County",6029
+588,"2015-07-07","1 Fontaine Dr","Elizabethtown","KY",42701,"Hardin County",21093
+589,"2015-07-07","4301 N River Blvd","Sugar Creek","MO",64050,"Jackson County",29095
+590,"2015-07-07","1100 N Bishop Ave","Dallas","TX",75208,"Dallas County",48113
+591,"2015-07-06","13000 Gavina Ave","Los Angeles","CA",91342,"Los Angeles County",6037
+592,"2015-07-06","Green Sands Ave and Augusta Ln","Atwater","CA",95301,"Merced County",6047
+593,"2015-07-06","3300 SW 47th St","Oklahoma City","OK",73119,"Oklahoma County",40109
+594,"2015-07-06","400 E Vine Ave","Mesa","AZ",85204,"Maricopa County",4013
+595,"2015-07-06","10 Wild Ammonoosuc Rd","Bath","NH",3785,"Grafton County",33009
+596,"2015-07-06","5500 Adenmoor Ave","Lakewood","CA",90713,"Los Angeles County",6037
+597,"2015-07-06","24th St and D Ave","Ogden","UT",84401,"Weber County",49057
+598,"2015-07-05","12200 216th St","Hawaiian Gardens","CA",90716,"Los Angeles County",6037
+599,"2015-07-05","700 San Jacinto Blvd","Austin","TX",78701,"Travis County",48453
+600,"2015-07-05","4321 1st St","Pleasanton","CA",94566,"Alameda County",6001
+601,"2015-07-05","10600 Golden Quail Dr","Austin","TX",78758,"Travis County",48453
+602,"2015-07-05","Lacey Rd and Deerhead Lake Dr","Lacey Township","NJ",8731,"Ocean County",34029
+603,"2015-07-04","18th St and Peterson Pl","Newport News","VA",23607,"Newport News, City of",51700
+604,"2015-07-04","4100 SE 51st St","Oklahoma City","OK",73135,"Oklahoma County",40109
+605,"2015-07-04","SW 1st St and SW 22nd Ave","Miami","FL",33135,"Miami-Dade County",12086
+606,"2015-07-04","1340 W Warm Springs Rd","Henderson","NV",89014,"Clark County",32003
+607,"2015-07-04","1850 S Cumberland St","Morristown","TN",37813,"Hamblen County",47063
+608,"2015-07-03","700 Nogales St","Rowland Heights","CA",91748,"Los Angeles County",6037
+609,"2015-07-03","Harrison Ave and Bergen Ave","Camden","NJ",8105,"Camden County",34007
+610,"2015-07-03","3100 W Ave K4","Lancaster","CA",93535,"Los Angeles County",6037
+611,"2015-07-03","10300 Ramona Ave","Montclair","CA",91763,"San Bernardino County",6071
+612,"2015-07-02","14000 Via Fiesta","San Diego","CA",92127,"San Diego County",6073
+613,"2015-07-02","3500 Beach Blvd","Jacksonville","FL",32207,"Duval County",12031
+614,"2015-07-02","53 Buck Rub Trail","Meadow Bridge","WV",25976,"Fayette County",54019
+615,"2015-07-02","Meridian Ave and W 40th St","Miami Beach","FL",33140,"Miami-Dade County",12086
+616,"2015-07-02","50 Thayer St","Brockton","MA",2302,"Plymouth County",25023
+617,"2015-07-01","OR-99W & NE Doran Dr.","McMinnville","OR",97128,"Yamhill County",41071
+618,"2015-07-01","Exit 71 of Interstate 5","Wolf Creek","OR",97497,"Josephine County",41033
+619,"2015-07-01","Brown Avenue","Weston","WV",26452,"Lewis County",54041
+620,"2015-06-30","Woodland Hills Dr","Franklin","NC",NA,"Macon County",37113
+621,"2015-06-29","96 Fox Hill Rd","Northville","NY",NA,"Fulton County",36035
+622,"2015-06-28","1900 NE 122nd Ave","Portland","OR",NA,"Multnomah County",41051
+623,"2015-06-28","N 40th St and E Flora St","Tampa","FL",NA,"Hillsborough County",12057
+624,"2015-06-27","500 S Mission Ave","Tahlequah","OK",NA,"Cherokee County",40021
+625,"2015-06-26","7611 Marbach Rd","San Antonio","TX",NA,"Bexar County",48029
+626,"2015-06-26","Lake Titus","Malone","NY",NA,"Franklin County",36033
+627,"2015-06-25","3000 Hunting Ridge Dr","Owings Mills","MD",NA,"Baltimore County",24005
+628,"2015-06-25","49000 Hildreth Rd","Friant","CA",NA,"Fresno County",6019
+629,"2015-06-24","Fort Eustis Blvd","Yorktown","VA",NA,"York County",51199
+630,"2015-06-23","800 N Van Buren St","Hutchinson","KS",NA,"Reno County",20155
+631,"2015-06-23","15556 Blondo St","Omaha","NE",NA,"Douglas County",31055
+632,"2015-06-23","1811 S Main St","Weatherford","TX",NA,"Parker County",48367
+633,"2015-06-23","3800 N Tacoma Ave","Indianapolis","IN",NA,"Marion County",18097
+634,"2015-06-22","700 Saw Mill Run Blvd","Pittsburgh","PA",NA,"Allegheny County",42003
+635,"2015-06-22","7500 Greenback Ln","Citrus Heights","CA",NA,"Sacramento County",6067
+636,"2015-06-22","2600 Blueberry Cir","Augusta","GA",NA,"Richmond County",13245
+637,"2015-06-22","182 N River Ridge Rd","Jonesville","NC",NA,"Yadkin County",37197
+638,"2015-06-21","400 E Lee Dr","Azusa","CA",NA,"Los Angeles County",6037
+639,"2015-06-21","River Rd","Homedale","ID",NA,"Owyhee County",16073
+640,"2015-06-21","910 Cypress Station Dr","Houston","TX",NA,"Harris County",48201
+641,"2015-06-20","E 71st St & S Merrill Ave","Chicago","IL",NA,"Cook County",17031
+642,"2015-06-20","33.238760, -87.154784","McCalla","AL",NA,"Tuscaloosa County",1125
+643,"2015-06-20","9908 Ave C","Baton Rouge","LA",NA,"East Baton Rouge Parish",22033
+644,"2015-06-19","5900 Roe St","Cincinnati","OH",NA,"Hamilton County",39061
+645,"2015-06-19","Charles River Esplanade","Boston","MA",NA,"Suffolk County",25025
+646,"2015-06-19","600 15th Ave Ct","Greeley","CO",NA,"Weld County",8123
+647,"2015-06-18","3150 Ocean Pkwy","Brooklyn","NY",NA,"Kings County",36047
+648,"2015-06-17","Unknown","Fort Totten","ND",NA,"Benson County",38005
+649,"2015-06-17","exit 212 southbound exit ramp I-65","Clanton","AL",NA,"Chilton County",1021
+650,"2015-06-17","Clearfork Dr","Hobbs","NM",NA,"Lea County",35025
+651,"2015-06-16","4300 35th Ave","Vero Beach","FL",NA,"Indian River County",12061
+652,"2015-06-16","1600 Sewall Ave","Asbury Park","NJ",NA,"Monmouth County",34025
+653,"2015-06-16","2800 S Mooney Blvd","Visalia","CA",NA,"Tulare County",6107
+654,"2015-06-15","3800 Lake Tahoe Blvd","South Lake Tahoe","CA",NA,"El Dorado County",6017
+655,"2015-06-14","2800 Calariva Dr","Stockton","CA",NA,"San Joaquin County",6077
+656,"2015-06-14","4455 King St","Cocoa","FL",NA,"Brevard County",12009
+657,"2015-06-13","S 4th St & W Oak St","Louisville","KY",NA,"Jefferson County",21111
+658,"2015-06-13","3598 Poinsett Hwy","Greenville","SC",NA,"Greenville County",45045
+659,"2015-06-13","121 S I-45 Service Rd","Hutchins","TX",NA,"Dallas County",48113
+660,"2015-06-13","2500 St Marys Ave","Fort Wayne","IN",NA,"Allen County",18003
+661,"2015-06-13","1900 Coulter Dr","North Augusta","SC",NA,"Aiken County",45003
+662,"2015-06-13","7360 Salem Ave","Clayton","OH",NA,"Montgomery County",39113
+663,"2015-06-12","1 Mountainside Way","Mt Olive","WV",25059,"Fayette County",54019
+664,"2015-06-12","1500 S Dixon Rd","Kokomo","IN",NA,"Howard County",18067
+665,"2015-06-11","1347 Sample Rd","Pompano Beach","FL",NA,"Broward County",12011
+666,"2015-06-11","350 NW 13th St","Miami","FL",NA,"Miami-Dade County",12086
+667,"2015-06-11","185 Johnson Ave","Hackensack","NJ",NA,"Bergen County",34003
+668,"2015-06-11","6800 Honeyridge Ln","San Antonio","TX",NA,"Bexar County",48029
+669,"2015-06-11","1000 Bear Creek Pike","Columbia","TN",NA,"Maury County",47119
+670,"2015-06-10","2000 Valentine Ave","Bronx","NY",NA,"New York County",36061
+671,"2015-06-09","1700 Chase Ave","Cincinnati","OH",NA,"Hamilton County",39061
+672,"2015-06-09","5400 N Jim Miller Rd","Dallas","TX",NA,"Dallas County",48113
+673,"2015-06-09","18000 Drum Heller Ln","Tomball","TX",NA,"Harris County",48201
+674,"2015-06-09","Urbandale Ave and Merle Hay Rd","Des Moines","IA",NA,"Polk County",19153
+675,"2015-06-09","800 W Sandusky St","Findlay","OH",NA,"Hancock County",39063
+676,"2015-06-08","1514 S Harbor City Blvd","Melbourne","FL",NA,"Brevard County",12009
+677,"2015-06-08","La Palma Ave and Helena St","Anaheim","CA",NA,"Orange County",6059
+678,"2015-06-08","9205 W Hutton Dr","Sun City","AZ",NA,"Maricopa County",4013
+679,"2015-06-08","Main St and 4th St","Beech Grove","IN",NA,"Marion County",18097
+680,"2015-06-08","2263 Loring Pl","New York","NY",NA,"Bronx County",36005
+681,"2015-06-07","727 3rd St","Woodland","WA",98674,"Cowlitz County",53015
+682,"2015-06-07","3300 Mola St","North Port","FL",NA,"Sarasota County",12115
+683,"2015-06-06","Lakeshore Ave and Lake Park Ave","Oakland","CA",NA,"Alameda County",6001
+684,"2015-06-06","Moreland Avenue and Pickens Street SE","Atlanta","GA",NA,"Fulton County",13121
+685,"2015-06-06","Exit 310 of I-70","Strasburg","CO",NA,"Adams County",8001
+686,"2015-06-06","Porter Dr and San Juan Rd","Pajaro","CA",NA,"Santa Cruz County",6087
+687,"2015-06-06","2601 Midland Dr","Midland","TX",NA,"Midland County",48329
+688,"2015-06-06","Finch Rd","Morgantown","WV",NA,"Monongalia County",54061
+689,"2015-06-05","6919 Rising Sun Ave","Philadelphia","PA",NA,"Philadelphia County",42101
+690,"2015-06-05","300 W Williams St","Santa Maria","CA",NA,"Santa Barbara County",6083
+691,"2015-06-05","Persia Ave and Sunnydale Ave","San Francisco","CA",NA,"San Francisco, City and County of",6075
+692,"2015-06-04","1100 Pine Ln","Chester","PA",NA,"Chester County",42029
+693,"2015-06-04","2324 Algehro Dr","Delano","CA",NA,"Kern County",6029
+694,"2015-06-04","5 S Hazel St","Los Lunas","NM",NA,"Valencia County",35061
+695,"2015-06-03","FM329 and Cherry St","Waxahachie","TX",NA,"Ellis County",48139
+696,"2015-06-03","11799 Featherwood Dr","Houston","TX",NA,"Harris County",48201
+697,"2015-06-03","Laurel Trail","Byram Township","NJ",NA,"Sussex County",34037
+698,"2015-06-02","100 Lamplighter Ct","Azle","TX",NA,"Tarrant County",48439
+699,"2015-06-02","4600 Washington St","Roslindale","MA",NA,"Suffolk County",25025
+700,"2015-06-02","811 Culver Rd","Falkville","AL",NA,"Morgan County",1103
+701,"2015-06-01","271 Greece Ridge Center Dr","Rochester","NY",NA,"Monroe County",36055
+702,"2015-06-01","2225 Texas Hwy 256 Loop","Palestine","TX",NA,"Anderson County",48001
+703,"2015-05-31","Tremont St and Morgan St","Rochester","NY",NA,"Monroe County",36055
+704,"2015-05-31","Juanipero Way and La Loma Dr","Medford","OR",NA,"Jackson County",41029
+705,"2015-05-30","1128 Murfreesboro Pike","Nashville","TN",NA,"Davidson County",47037
+706,"2015-05-30","108 Fir Canyon Rd","Grants Pass","OR",NA,"Josephine County",41033
+707,"2015-05-30","Yuma Circle","Cottonwood","AZ",NA,"Yavapai County",4025
+708,"2015-05-30","Hectorville Rd and Bixby Rd","Mounds","OK",NA,"Creek County",40037
+709,"2015-05-29","355 Valley Brook Ave","Lyndhurst","NJ",NA,"Bergen County",34003
+710,"2015-05-29","4055 41st Ave","Vero Beach","FL",NA,"Indian River County",12061
+711,"2015-05-29","215 N Main Cross St","Louisa","KY",NA,"Lawrence County",21127
+712,"2015-05-28","4600 E 15th St","Long Beach","CA",NA,"Los Angeles County",6037
+713,"2015-05-28","900 Bankhead Hwy","Carrollton","GA",NA,"Carroll County",13045
+714,"2015-05-28","2800 Longmeadow Dr","Trenton","MI",NA,"Wayne County",26163
+715,"2015-05-28","10900 E 109th Pl","Northglenn","CO",NA,"Adams County",8001
+716,"2015-05-28","Sparta Hwy and Oconee Springs Rd","Eatonton","GA",NA,"Putnam County",13237
+717,"2015-05-28","3164 Charlotte Hwy","Lancaster","SC",NA,"Lancaster County",45057
+718,"2015-05-27","1701 Ridgecrest Rd","Edmond","OK",NA,"Oklahoma County",40109
+719,"2015-05-27","3600 Emmanuel Way","Alpine","CA",NA,"San Diego County",6073
+720,"2015-05-27","33 Bayside Pkwy","Middletown","NJ",NA,"Monmouth County",34025
+721,"2015-05-27","1225 Quindaro Blvd","Kansas City","KS",NA,"Wyandotte County",20209
+722,"2015-05-26","530 Stanley Ave","New York","NY",NA,"New York County",36061
+723,"2015-05-26","200 John Wesly Blvd","Bossier City","LA",NA,"Bossier Parish",22015
+724,"2015-05-26","17500 Tester Rd","Snohomish","WA",NA,"Snohomish County",53061
+725,"2015-05-25","1100 E Gateway Dr SE","Huntsville","AL",NA,"Madison County",1089
+726,"2015-05-25","6505 Shirley Ave","Austin","TX",NA,"Travis County",48453
+727,"2015-05-24","135 N Main St","Eagar","AZ",NA,"Apache County",4001
+728,"2015-05-23","13331 Strathmoor St","Detroit","MI",NA,"Wayne County",26163
+729,"2015-05-23","SE 650th Rd","Green Ridge","MO",NA,"Pettis County",29159
+730,"2015-05-22","1534 N Center Ave","Somerset","PA",NA,"Somerset County",42111
+731,"2015-05-21","SW 29th Ave and SW 29th Terrace","Fort Lauderdale","FL",NA,"Broward County",12011
+732,"2015-05-21","83 Beaufain St","Charleston","SC",NA,"Charleston County",45019
+733,"2015-05-21","4585 Frederica St","Owensboro","KY",NA,"Daviess County",21059
+734,"2015-05-21","600 NW 27th Ave","Fort Lauderdale","FL",NA,"Broward County",12011
+735,"2015-05-21","5111 Fairbanks Dr","El Paso","TX",NA,"El Paso County",48141
+736,"2015-05-21","10 Temple Ave","Hackensack","NJ",NA,"Bergen County",34003
+737,"2015-05-21","N Garner Lake Rd and Vaquero Ave","Gillette","WY",NA,"Campbell County",56005
+738,"2015-05-21","3271 Dartmouth Dr","Charleston","SC",NA,"Charleston County",45019
+739,"2015-05-21","497 Florida Ave","St Augustine","FL",NA,"St. Johns County",12109
+740,"2015-05-20","3057 Martin Ave","Omaha","NE",NA,"Douglas County",31055
+741,"2015-05-20","900 E Main St","Cabot","AR",NA,"Lonoke County",5085
+742,"2015-05-20","2569 Raber Rd","Green","OH",NA,"Stark County",39151
+743,"2015-05-19","305 E Walnut St","Lancaster","PA",NA,"Lancaster County",42071
+744,"2015-05-19","4219 2nd Road N","Arlington","VA",NA,"Arlington County",51013
+745,"2015-05-19","N 10th St and Gunnison Ave","Grand Junction","CO",NA,"Mesa County",8077
+746,"2015-05-19","1100 Bruce Ln","Casper","WY",NA,"Natrona County",56025
+747,"2015-05-17","15746 Union Ave","Harvey","IL",NA,"Cook County",17031
+748,"2015-05-17","5236 Robin Ln N","St Petersburg","FL",NA,"Pinellas County",12103
+749,"2015-05-17","111 Otero Dr","Ruidoso","NM",NA,"Lincoln County",35027
+750,"2015-05-17","7700 Mesa College Dr","San Diego","CA",NA,"San Diego County",6073
+751,"2015-05-16","2010 61st St","Sacramento","CA",NA,"Sacramento County",6067
+752,"2015-05-15","274 E 194th St","New York","NY",NA,"Bronx County",36005
+753,"2015-05-15","1806 16th Ave","Rockford","IL",NA,"Winnebago County",17201
+754,"2015-05-14","6095 Anna's Ln","Portage","MI",NA,"Kalamazoo County",26077
+755,"2015-05-13","N Addison St and E Sanson Ave","Spokane","WA",NA,"Spokane County",53063
+756,"2015-05-13","2600 Reynolda Rd","Winston-Salem","NC",27106,"Forsyth County",37067
+757,"2015-05-12","7300 Blanding Blvd","Jacksonville","FL",NA,"Duval County",12031
+758,"2015-05-12","13900 Castle Blvd","Silver Spring","MD",NA,"Montgomery County",24031
+759,"2015-05-12","1031 Nuuanu Ave","Honolulu","HI",NA,"Honolulu, City and County of",15003
+760,"2015-05-12","28 Paseo Viento","Rancho Santa Margarita","CA",NA,"Orange County",6059
+761,"2015-05-11","950 Nalley Rd","Landover","MD",NA,"Prince George's County",24033
+762,"2015-05-11","6024 Wheaton Dr","Fort Worth","TX",NA,"Tarrant County",48439
+763,"2015-05-11","225 Presidents Cup Way","St Augustine","FL",NA,"St. Johns County",12109
+764,"2015-05-11","59705 E Bidegain Pl","Kearny","AZ",NA,"Pinal County",4021
+765,"2015-05-11","3420 S Proctor St","Tacoma","WA",NA,"Pierce County",53053
+766,"2015-05-11","100 Whitfield St","Enfield","NC",NA,"Halifax County",37083
+767,"2015-05-09","University Ave NE and I-694","Fridley","MN",NA,"Anoka County",27003
+768,"2015-05-08","3020 Destrehan Ave","Harvey","LA",NA,"Jefferson Parish",22051
+769,"2015-05-08","168 Auringer Rd","Constantania","NY",NA,"Oswego County",36075
+770,"2015-05-07","8th St and N Orange Ave","Sarasota","FL",NA,"Sarasota County",12115
+771,"2015-05-07","17200 Pires Ave","Cerritos","CA",NA,"Los Angeles County",6037
+772,"2015-05-07","2853 Avalon Meadows Ct","Lawrenceville","GA",NA,"Gwinnett County",13135
+773,"2015-05-07","300 Stone Monument Dr","Wake Forest","NC",27587,"Wake County",37183
+774,"2015-05-07","I-84","Beacon","NY",NA,"Dutchess County",36027
+775,"2015-05-06","1602 Pacific Ave","Los Angeles","CA",NA,"Los Angeles County",6037
+776,"2015-05-06","I-95","Ridgefield Park","NJ",NA,"Hudson County",34017
+777,"2015-05-06","I-95","Ridgefield Park","NJ",NA,"Hudson County",34017
+778,"2015-05-05","10400 Enloe St","South El Monte","CA",91733,"Los Angeles County",6037
+779,"2015-05-05","6700 E Admiral Pl","Tulsa","OK",NA,"Tulsa County",40143
+780,"2015-05-05","1847 Bob White Blvd","Pulaski","VA",24301,"Pulaski County",51155
+781,"2015-05-04","Edwards Avenue and Collier Avenue","Jackson","MS",NA,"Hinds County",28049
+782,"2015-05-04","3320 W 9th Ave","Kennewick","WA",99336,"Benton County",53005
+783,"2015-05-04","Doctors Row","Chavies","KY",41727,"Perry County",21193
+784,"2015-05-03","4999 Naaman Forest Blvd","Garland","TX",75040,"Dallas County",48113
+785,"2015-05-03","640 Shannon Street","Greenville","MS",38703,"Washington County",28151
+786,"2015-05-03","4999 Naaman Forest Blvd","Garland","TX",75040,"Dallas County",48113
+787,"2015-05-03","210 W 300 N","Roosevelt","UT",84066,"Duchesne County",49013
+788,"2015-05-03","Arenal Rd SW and Tapia Blvd SW","Albuquerque","NM",87105,"Bernalillo County",35001
+789,"2015-05-02","30 Malvern Ln","Smyrna","DE",NA,"Kent County",10001
+790,"2015-04-30","141 Pryor St SW","Atlanta","GA",NA,"Fulton County",13121
+791,"2015-04-30","812 Forest Hills Dr","Nashville","TN",37220,"Davidson County",47037
+792,"2015-04-29","3200 Hancock St","San Diego","CA",92110,"San Diego County",6073
+793,"2015-04-29","200 Elm Rd","Emporia","VA",23847,"Greensville County",51081
+794,"2015-04-29","11565 James Watt Dr","El Paso","TX",79907,"El Paso County",48141
+795,"2015-04-29","1624 Hood Franklin Rd","Elk Grove","CA",NA,"Sacramento County",6067
+796,"2015-04-29","1400 E Harmony Ave","Mesa","AZ",85204,"Maricopa County",4013
+797,"2015-04-29","1200 W Florida Ave","Chickasha","OK",73018,"Grady County",40051
+798,"2015-04-28","8400 Chef Menteur Hwy","New Orleans","LA",70126,"Orleans Parish",22071
+799,"2015-04-28","602 S Main St","Sylvester","GA",NA,"Worth County",13321
+800,"2015-04-28","1408 W Main St","Marion","IL",62959,"Williamson County",17199
+801,"2015-04-28","36 Randall Rd","Mansfield","OH",44907,"Richland County",39139
+802,"2015-04-27","9500 Evergreen Rd","Detroit","MI",48228,"Wayne County",26163
+803,"2015-04-26","800 Simpson Rd","Victoria","TX",77904,"Victoria County",48469
+804,"2015-04-26","13822 Brookhurst St","Garden Grove","CA",92708,"Orange County",6059
+805,"2015-04-26","7th Ave and Kansas Ave","Hanford","CA",NA,"Kings County",6031
+806,"2015-04-26",NA,"Bunch","OK",74931,"Adair County",40001
+807,"2015-04-25","538 E Sixth St","New York","NY",NA,"New York County",36061
+808,"2015-04-25","8624 Firestone Cir","Clermont","FL",34711,"Lake County",12069
+809,"2015-04-24","1505 E Main St","Trinidad","CO",81082,"Las Animas County",8071
+810,"2015-04-24","401 Juniper Lake Rd","West End","NC",NA,"Moore County",37125
+811,"2015-04-24","401 Juniper Lake Rd","West End","NC",NA,"Moore County",37125
+812,"2015-04-24","H St NW and 20th Ave NW","Miami","OK",74354,"Coal County",40029
+813,"2015-04-24","1940 Turner Rd SE","Salem","OR",97302,"Marion County",41047
+814,"2015-04-23","MLK boulevard and Reed st","Houston","TX",77033,"Harris County",48201
+815,"2015-04-23","Tyler St and Glenoaks Blvd","Sylmar","CA",91342,"Los Angeles County",6037
+816,"2015-04-23","1100 Hoffman Ave","Long Beach","CA",90813,"Los Angeles County",6037
+817,"2015-04-23","2661 Gravenstein Hwy S","Sebastopol","CA",95472,"Sonoma County",6097
+818,"2015-04-23","16802 Hillside Ave","New York","NY",NA,"Queens County",36081
+819,"2015-04-23","182 N4430 Rd","Rufe","OK",NA,"Choctaw County",40023
+820,"2015-04-23","11540 Upper Gilchrist Rd","Mt Vernon","OH",43050,"Knox County",39083
+821,"2015-04-22","4100 Eldorado Springs Dr","Boulder","CO",80303,"Boulder County",8013
+822,"2015-04-22","1098 Frederick Blvd","Portsmouth","VA",NA,"Portsmouth, City of",51740
+823,"2015-04-22","200 North Retta St","Fort Worth","TX",NA,"Tarrant County",48439
+824,"2015-04-22","101 Naco Hwy","Bisbee","AZ",NA,"Cochise County",4003
+825,"2015-04-22","3000 W Cecil Ave","Delano","CA",NA,"San Bernardino County",6071
+826,"2015-04-22","107 White Falls Dr","Columbia","SC",NA,"Lexington County",45063
+827,"2015-04-21","1714 Walker Ave","Union","NJ",NA,"Union County",34039
+828,"2015-04-21","18 Strack Dr","Beacon","NY",12508,"Dutchess County",36027
+829,"2015-04-21","3400 Manitou Ave","Los Angeles","CA",NA,"Los Angeles County",6037
+830,"2015-04-21","3600 SW 108th St","Lakewood","WA",NA,"Pierce County",53053
+831,"2015-04-21","Old Hwy 19 SE","Meridian","MS",NA,"Lauderdale County",28075
+832,"2015-04-20",NA,"Mission","TX",78574,"Hidalgo County",48215
+833,"2015-04-20","1363 Clark Dr","Sidney","NE",NA,"Cheyenne County",31033
+834,"2015-04-19","Mount St and Presbury St","Baltimore","MD",NA,"Baltimore, City of",24510
+835,"2015-04-19","4827 Legend Well Dr","San Antonio","TX",NA,"Bexar County",48029
+836,"2015-04-19","105 Hinkle St","Wilmore","KY",NA,"Jessamine County",21113
+837,"2015-04-19","SW Wanamaker Rd and I-70","Topeka","KS",NA,"Shawnee County",20177
+838,"2015-04-18","9201 Riverwood Dr","Jennings","MO",NA,"St. Louis County",29189
+839,"2015-04-18","Beckett Street","Columbia","TN",NA,"Maury County",47119
+840,"2015-04-18","20th St and Thomas Rd","Phoenix","AZ",NA,"Maricopa County",4013
+841,"2015-04-18","1200 Beck Ave","Panama City","FL",NA,"Bay County",12005
+842,"2015-04-17","74th Street and Merrill Ave","Chicago","IL",NA,"Cook County",17031
+843,"2015-04-17","402 North Prospect St","Hagerstown","MD",NA,"Washington County",24043
+844,"2015-04-17","Girard Street and Acacia Ave","Hemet","CA",NA,"Riverside County",6065
+845,"2015-04-16",NA,"Waldorf","MD",NA,"Charles County",24017
+846,"2015-04-16","West Lerdo Hwy and South Wall St","Shafter","CA",NA,"Kern County",6029
+847,"2015-04-16","Hitt St and Elm St","Columbia","MO",NA,"Boone County",29019
+848,"2015-04-16","14680 Middle Gibraltar Rd","Rockwood","MI",NA,"Wayne County",26163
+849,"2015-04-15","840 NW 75th St","Miami","FL",NA,"Miami-Dade County",12086
+850,"2015-04-15","200 Canaan Pointe Dr","Spartanburg","SC",NA,"Spartanburg County",45083
+851,"2015-04-15","Castlegory Rd and Wallisville Rd","Houston","TX",NA,"Harris County",48201
+852,"2015-04-15","11157 Chico Ave","Pomona","CA",NA,"San Bernardino County",6071
+853,"2015-04-15","900 Walnut St","Jonesboro","AR",72401,"Craighead County",5031
+854,"2015-04-15","110 Nottinghill Ln","Hamilton Township","NJ",NA,"Mercer County",34021
+855,"2015-04-15","3120 East Main St","Carson City","CO",NA,"Fremont County",8043
+856,"2015-04-15","27767 Base Line","Highland","CA",NA,"San Bernardino County",6071
+857,"2015-04-14","7000 Altaire Ave","Dallas","TX",75232,"Dallas County",48113
+858,"2015-04-14","325 Riverside Dr","Fallsburg","NY",NA,"Sullivan County",36105
+859,"2015-04-13","3 Greens Rd","Houston","TX",NA,"Harris County",48201
+860,"2015-04-13","3400 Lincoln Ave","Alton","IL",NA,"Madison County",17119
+861,"2015-04-13","North Carolina Hwy 242 and Reeda Branch Rd","Salemburg","NC",NA,"Sampson County",37163
+862,"2015-04-12","E 31st St and N Sherman Dr","Indianapolis","IN",46218,"Marion County",18097
+863,"2015-04-12","Sleepy Hollow Dr and Misty Glen Dr","Newalla","OK",NA,"Oklahoma County",40109
+864,"2015-04-11","W 51st St and S 129th Ave W","Sand Springs","OK",74063,"Tulsa County",40143
+865,"2015-04-10","4740 Barham Ave","Corning","CA",NA,"Tehama County",6103
+866,"2015-04-10","45 Major Bell Ln","Gettysburg","PA",NA,"Adams County",42001
+867,"2015-04-09","8516 N Meridian Rd","Monon","IN",NA,"White County",18181
+868,"2015-04-09","9265 Quail Roost Dr","Navarre","FL",NA,"Santa Rosa County",12113
+869,"2015-04-09","477 Belcher Rd","Boiling Springs","SC",NA,"Spartanburg County",45083
+870,"2015-04-09","W 141st St and 257th W Ave","Kellyville","OK",NA,"Creek County",40037
+871,"2015-04-08","3022 James Rd","Valdosta","GA",NA,"Lowndes County",13185
+872,"2015-04-08","4th St and Mathews St","Los Angeles","CA",NA,"Los Angeles County",6037
+873,"2015-04-08","11936 California Rte 178","Lake Isabella","CA",NA,"Kern County",6029
+874,"2015-04-08","Tasman Dr and Lawrence Expy","Sunnyvale","CA",NA,"Santa Clara County",6085
+875,"2015-04-08","Karen Ln and Corinne Dr","San Antonio","TX",NA,"Bexar County",48029
+876,"2015-04-07","E 100 N","Rigby","ID",NA,"Jefferson County",16051
+877,"2015-04-07","Post Office Neck Rd and Lake Rd","Shawnee","OK",NA,"Pottawatomie County",40125
+878,"2015-04-06","2515 Manhattan Blvd","Harvey","LA",NA,"Jefferson Parish",22051
+879,"2015-04-06","Bureau of Indian Affairs Rd 66","Tonasket","WA",NA,"Okanogan County",53047
+880,"2015-04-06","400 Steuber Rd","Tehachapi","CA",93561,"Kern County",6029
+881,"2015-04-06","5700 block Ashby Dr","Indianapolis","IN",NA,"Marion County",18097
+882,"2015-04-06","11120 NW Gainesville Rd","Ocala","FL",NA,"Marion County",12083
+883,"2015-04-05","W Union Hills Dr and N 39th Ave","Phoenix","AZ",85308,"Maricopa County",4013
+884,"2015-04-04","1945 Remount Rd","North Charleston","SC",NA,"Charleston County",45019
+885,"2015-04-04","2300 Gilead Ave","Zion","IL",60099,"Lake County",17097
+886,"2015-04-04","150 E Lincoln Ave","Anaheim","CA",92865,"Orange County",6059
+887,"2015-04-04","Mountainair St","Edgewood","NM",87015,"Santa Fe County",35049
+888,"2015-04-04","11974-11998 US-64","Muskogee County","OK",74469,"Muskogee County",40101
+889,"2015-04-03","12th Ave and Glenhurst Ct","Rock Island","IL",61201,"Rock Island County",17161
+890,"2015-04-03","123 Gregory Pl","Winchester","VA",22603,"Frederick County",51069
+891,"2015-04-02","1900 block N Harvard Ave","Tulsa","OK",NA,"Tulsa County",40143
+892,"2015-04-02","Lark St and Second St","Albany","NY",12210,"Albany County",36001
+893,"2015-04-02","Illinois Rte 145 and Waldo Church Rd","Metropolis","IL",NA,"Massac County",17127
+894,"2015-04-02","300 block Iris Park Dr","Pineville","LA",NA,"Rapides Parish",22079
+895,"2015-04-01","14200 Kornblum Ave","Hawthorne","CA",90250,"Los Angeles County",6037
+896,"2015-03-31","100 Grape Street","Vineland","NJ",NA,"Cumberland County",34011
+897,"2015-03-31","2333 Rosa L Parks Blvd","Nashville","TN",NA,"Davidson County",47037
+898,"2015-03-31","Hembree Road and Highway 9","Roswell","GA",NA,"Fulton County",13121
+899,"2015-03-31","West Texas and Gaillard Street","Baytown","TX",77520,"Harris County",48201
+900,"2015-03-31","16040 Grass Lake Drive","Tampa","FL",NA,"Hillsborough County",12057
+901,"2015-03-30","4409 Llewellyn Avenue","Fort George Meade","MD",NA,"Anne Arundel County",24003
+902,"2015-03-30","1301 Spring Meadow Ln","Culpeper","VA",22701,"Culpeper County",51047
+903,"2015-03-30","2200 Devos Street","Eugene","OR",NA,"Lane County",41039
+904,"2015-03-30","2293 N Main St","Crown Point","IN",46307,"Lake County",18089
+905,"2015-03-29","111 Towne Drive","Elizabethtown","KY",NA,"Hardin County",21093
+906,"2015-03-29","3700 Beyer Park Dr","Ceres","CA",NA,"Stanislaus County",6099
+907,"2015-03-29","Fields Hollow Road","Peebles","OH",45660,"Pike County",39131
+908,"2015-03-29","841 Avenue A","Boulder City","NV",NA,"Clark County",32003
+909,"2015-03-27","500 West Vineyard Avenue","Oxnard","CA",93036,"Ventura County",6111
+910,"2015-03-27","1000 Mayflower Road","Fort Pierce","FL",NA,"St. Lucie County",12111
+911,"2015-03-27","Humboldt Avenue and Ruthven Street","Boston","MA",NA,"Suffolk County",25025
+912,"2015-03-27","4000 Union Avenue","Bakersfield","CA",NA,"Kern County",6029
+913,"2015-03-27","Shadytree Lane and Glen Arbor Driv","Encinitas","CA",NA,"San Diego County",6073
+914,"2015-03-27","40 North Main St.","Webster","MA",NA,"Worcester County",25027
+915,"2015-03-27","Horseshoe Run Road","Fort Ashby","WV",NA,"Mineral County",54057
+916,"2015-03-26","1500 Bayview Avenue","Wilmington","CA",NA,"Los Angeles County",6037
+917,"2015-03-26","Verdae Blvd & Rocky Slope Rd","Greenville","SC",NA,"Greenville County",45045
+918,"2015-03-26","400 North Birch Street","Gardner","KS",NA,"Johnson County",20091
+919,"2015-03-25","Dixie Street","Johnsonville","SC",NA,"Florence County",45041
+920,"2015-03-25","102nd Street and Vermont Avenue","Los Angeles","CA",NA,"Los Angeles County",6037
+921,"2015-03-24","19 Colin Drive","Portsmouth","VA",NA,"Portsmouth, City of",51740
+922,"2015-03-24","2475 Cumberland Parkway","Atlanta","GA",NA,"Cobb County",13067
+923,"2015-03-24","W Johnson St & US-41","Fond du Lac","WI",NA,"Fond du Lac County",55039
+924,"2015-03-24","2600 Senter Rd","San Jose","CA",NA,"Santa Clara County",6085
+925,"2015-03-24","North 67th Ave. and West Peoria Ave.","Glendale","AZ",NA,"Maricopa County",4013
+926,"2015-03-23","707 West 13th Street","Vancouver","WA",98660,"Clark County",53011
+927,"2015-03-22","1851 West Sunrise Highway","Islip","NY",NA,"Suffolk County",36103
+928,"2015-03-22","2105 Scott Blvd.","Santa Clara","CA",NA,"Santa Clara County",6085
+929,"2015-03-22","2300 Southeast 130th Avenue","Portland","OR",NA,"Multnomah County",41051
+930,"2015-03-22","KY-92","Williamsburg","KY",NA,"Whitley County",21235
+931,"2015-03-22","5900 South Lewis Avenue","Tulsa","OK",NA,"Tulsa County",40143
+932,"2015-03-21","St. Johns Ave & N. Palm Ave","Palatka","FL",NA,"Putnam County",12107
+933,"2015-03-21","1790 East Voorhees Street","Harmony","IN",NA,"Clay County",18021
+934,"2015-03-21","2003 E Rodeo Drive","Cottonwood","AZ",NA,"Yavapai County",4025
+935,"2015-03-21","4600 Summit Street","Columbus","OH",NA,"Franklin County",39049
+936,"2015-03-21","NY-31A","Clarendon","NY",NA,"Orleans County",36073
+937,"2015-03-21","904 Admiral Callaghan Lane","Vallejo","CA",NA,"Solano County",6095
+938,"2015-03-20","Arthur Kill Rd & W Shore Expy","New York","NY",NA,"New York County",36061
+939,"2015-03-20","Arthur Kill Rd & W Shore Expy","New York","NY",NA,"New York County",36061
+940,"2015-03-20","Highway 31B","Wapanucka","OK",NA,"Coal County",40029
+941,"2015-03-20","900 Airline Drive","Kenner","LA",NA,"Jefferson Parish",22051
+942,"2015-03-19","1800 Helena St","Jacksonville","FL",NA,"Duval County",12031
+943,"2015-03-19","1077 Parkwood Dr","Cleveland","OH",NA,"Cuyahoga County",39035
+944,"2015-03-19","6100 Knudsen Drive","Bakersfield","CA",NA,"Kern County",6029
+945,"2015-03-19","County Road 249","Langtown","AL",NA,"Lawrence County",1079
+946,"2015-03-19","Kneuman Rd","Sumas","WA",NA,"Whatcom County",53073
+947,"2015-03-19","364 Hiwood Ave.","Munroe Falls","OH",NA,"Summit County",39153
+948,"2015-03-18","N-13 & Indn Route 13","Lukachukai","AZ",NA,"Apache County",4001
+949,"2015-03-18","9000 Charles Way","Middleton","ID",NA,"Canyon County",16027
+950,"2015-03-18","1125 1/2 19th Street","Bakersfield","CA",93301,"Kern County",6029
+951,"2015-03-18","67th Avenue and Peoria","Peoria","AZ",NA,"Maricopa County",4013
+952,"2015-03-18","Lake Ella Drive","Tallahassee","FL",NA,"Leon County",12073
+953,"2015-03-17","3189 Morton Bend Road","Rome","GA",NA,"Floyd County",13115
+954,"2015-03-17","6000 Bridgecross","Sacramento","CA",NA,"Sacramento County",6067
+955,"2015-03-17","3710 US Highway 190 W","Onalaska","TX",NA,"Polk County",48373
+956,"2015-03-17","8100 Highway 41","Dublin","NC",NA,"Bladen County",37017
+957,"2015-03-17","360 Argyle Court","Medford","OR",NA,"Jackson County",41029
+958,"2015-03-17","Van Ness Ave & Pine St","San Francisco","CA",NA,"San Francisco, City and County of",6075
+959,"2015-03-17","U.S. 65","Tallulah","LA",NA,"Madison Parish",22065
+960,"2015-03-16","2400 15th Street East","Bradenton","FL",NA,"Manatee County",12081
+961,"2015-03-16","300 South King Street","Honolulu","HI",NA,"Honolulu, City and County of",15003
+962,"2015-03-16","411 White Bear Avenue","St. Paul","MN",NA,"Ramsey County",27123
+963,"2015-03-16","130 Wedowee Lane","Gaston","NC",NA,"Gaston County",37071
+964,"2015-03-15","McEwien Swamp Road","Ruth","MS",NA,"Lincoln County",28085
+965,"2015-03-15","134 Burban Drive","Branford","CT",NA,"New Haven County",9009
+966,"2015-03-14","2600 Mossrock","San Antonio","TX",NA,"Bexar County",48029
+967,"2015-03-14","22nd Avenue and 56th Street","Kenosha","WI",NA,"Kenosha County",55059
+968,"2015-03-13","Spring St & Hill Ave","Napa","CA",NA,"Napa County",6055
+969,"2015-03-13","184 W 3rd St","Pomona","CA",NA,"Los Angeles County",6037
+970,"2015-03-13","9700 Kempster Avenue","Fontana","CA",NA,"San Bernardino County",6071
+971,"2015-03-13","1120 Main Street","Follansbee","WV",NA,"Brooke County",54009
+972,"2015-03-13","8700 East 97th Terrace","Kansas City","MO",NA,"Jackson County",29095
+973,"2015-03-12","700 14th Street NW","Washington","DC",NA,"District of Columbia",11001
+974,"2015-03-12","300 East Mitchell Street","Arlington","TX",76010,"Tarrant County",48439
+975,"2015-03-12","2400 Flower Street","Los Angeles","CA",NA,"Los Angeles County",6037
+976,"2015-03-11","Augustine Herman Hwy & E Lewis Shore Rd","Elkton","MD",NA,"Cecil County",24015
+977,"2015-03-11","Ottawa Road","Cleveland","OH",44105,"Cuyahoga County",39035
+978,"2015-03-11","10400 Pescadero Avenue","South Gate","CA",NA,"Los Angeles County",6037
+979,"2015-03-11","300 South Main Street","Santa Ana","CA",NA,"Orange County",6059
+980,"2015-03-11","700 Auburndale Street","Memphis","TN",NA,"Shelby County",47157
+981,"2015-03-11","8600 Cliff's Landing Road","Bay Minette","AL",NA,"Baldwin County",1003
+982,"2015-03-11","2200 Lucille Avenue","Kingman","AZ",NA,"Mohave County",4015
+983,"2015-03-10","8173 Old State Highway 21","Port Wentworth","GA",NA,"Chatham County",13051
+984,"2015-03-10","10064 Elm Grove Garden Dr","Baton Rouge","LA",NA,"East Baton Rouge Parish",22033
+985,"2015-03-10","1280 Park Avenue","Mansfield","OH",NA,"Richland County",39139
+986,"2015-03-10","Fern Avenue and Phillips Street","Ontario","CA",NA,"San Bernardino County",6071
+987,"2015-03-10","700 Valley Street","Hoover","AL",NA,"Jefferson County",1073
+988,"2015-03-09","E Kennedy St & Jackson Ave","Hackensack","NJ",NA,"Bergen County",34003
+989,"2015-03-09","Aurora Street","Cocoa","FL",NA,"Brevard County",12009
+990,"2015-03-09","3028 Chamblee Dunwoody Rd.","Chamblee","GA",NA,"DeKalb County",13089
+991,"2015-03-09","U.S. Highway 40","Craig","CO",NA,"Moffat County",8081
+992,"2015-03-09","Talley Road","Penrose","NC",NA,"Transylvania County",37175
+993,"2015-03-08","900 South Euclid Street","Anaheim","CA",NA,"Orange County",6059
+994,"2015-03-08","10700 La Tuna Canyon Road","Oklahoma City","OK",NA,"Oklahoma County",40109
+995,"2015-03-08","689 Naamans Road","Claymont","DE",NA,"New Castle County",10003
+996,"2015-03-07","18th Street and Palm Lane","Phoenix","AZ",NA,"Maricopa County",4013
+997,"2015-03-06","Metropolitan Parkway SW and Fair Drive SW","Atlanta","GA",NA,"Fulton County",13121
+998,"2015-03-06","1100 Williamson Street","Madison","WI",NA,"Dane County",55025
+999,"2015-03-06","East 12th Avenue and Memphis Street","Aurora","CO",NA,"Arapahoe County",8005
+1000,"2015-03-06","Putnam Loop Rd & Dukes Trl","Melrose","FL",NA,"Putnam County",12107
+1001,"2015-03-06","4100 Nashville Ave","El Paso","TX",NA,"El Paso County",48141
+1002,"2015-03-06","Whitworth Street","Sulphur Springs","TX",75482,"Hopkins County",48223
+1003,"2015-03-05","E. Plainfield Ave. and S. Jasper Ave.","Milwaukee","WI",NA,"Milwaukee County",55079
+1004,"2015-03-05","National Ave. and Pass Ave.","Burbank","CA",NA,"Los Angeles County",6037
+1005,"2015-03-05","27th Street and Fletcher Avenue","Lincoln","NE",NA,"Lancaster County",31109
+1006,"2015-03-04","South San Joaquin Steet and East Church Street","Stockton","CA",NA,"San Joaquin County",6077
+1007,"2015-03-04","800 Maybrook Drive","Deltona","FL",NA,"Volusia County",12127
+1008,"2015-03-03","East Road and Olivia Street","Salisbury","MD",NA,"Wicomico County",24045
+1009,"2015-03-03","College Avenue and Curry Road","Tempe","AZ",NA,"Maricopa County",4013
+1010,"2015-03-02","Richards Street","Joliet","IL",NA,"Will County",17197
+1011,"2015-03-01","500 San Pedro Street","Los Angeles","CA",NA,"Los Angeles County",6037
+1012,"2015-03-01","St. Charles Parkway ","White Plains","MD",20695,"Charles County",24017
+1013,"2015-03-01","616 SW 59th Street","Oklahoma City","OK",NA,"Oklahoma County",40109
+1014,"2015-03-01","2244 Mount Pleasant Rd","Lucedale","MS",NA,"George County",28039
+1015,"2015-03-01","W Grand Ledge Hwy and Cochran Road","Grand Ledge","MI",NA,"Eaton County",26045
+1016,"2015-03-01","Waikoloa Road","Waikoloa Village","HI",NA,"Hawaii County",15001
+1017,"2015-02-28","E Broadway & Hwy 63","Columbia","MO",NA,"Boone County",29019
+1018,"2015-02-28","2300 Main Street","Tarboro","NC",NA,"Edgecombe County",37065
+1019,"2015-02-28","Morton Ave and Chatham Ave","Wellston","MO",NA,"St. Louis County",29189
+1020,"2015-02-28","St. Mary's Road and Grande Avenue","Tucson","AZ",NA,"Pima County",4019
+1021,"2015-02-28","1100 SC-8","Pelzer","SC",NA,"Anderson County",45007
+1022,"2015-02-28","I-10","Ehrenberg","AZ",NA,"La Paz County",4012
+1023,"2015-02-27","1000 West 3rd Street","Santa Ana","CA",NA,"Orange County",6059
+1024,"2015-02-26","US 49 & Middle Driveway","Gulfport","MS",NA,"Harrison County",28047
+1025,"2015-02-26","24th St. and Folsom St.","San Francisco","CA",NA,"San Francisco, City and County of",6075
+1026,"2015-02-26","5101 Hwy 133","Sylvester","GA",NA,"Worth County",13321
+1027,"2015-02-26","4660 N Socrum Loop Rd","Lakeland","FL",NA,"Polk County",12105
+1028,"2015-02-25","NW 27th St & N Youngs Blvd","Oklahoma City","OK",NA,"Oklahoma County",40109
+1029,"2015-02-25","5300 Craig Road","Las Vegas","NV",NA,"Clark County",32003
+1030,"2015-02-25",NA,"Terre Haute","IN",47802,"Vigo County",18167
+1031,"2015-02-25","1804 Opportunity Ave","Chambersburg","PA",NA,"Franklin County",42055
+1032,"2015-02-24","1493 Plymouth Ln","Green Bay","WI",NA,"Brown County",55009
+1033,"2015-02-23","Clearview Lane","Millbrook","AL",NA,"Elmore County",1051
+1034,"2015-02-23","175 Bass Pro Blvd.","Denham Springs","LA",NA,"Livingston Parish",22063
+1035,"2015-02-23","4800 West McEachern Woods Drive","Powder Springs","GA",NA,"Cobb County",13067
+1036,"2015-02-23","North Plymouth Street","Allentown","PA",NA,"Lehigh County",42077
+1037,"2015-02-23","1725 S 13th St","Omaha","NE",NA,"Douglas County",31055
+1038,"2015-02-22","1701 Andros Isle","Coconut Creek","FL",NA,"Broward County",12011
+1039,"2015-02-22","970 Castile Rd SE","Palm Bay","FL",NA,"Brevard County",12009
+1040,"2015-02-22","281 Lower Pond Ct","Clarkesville","GA",NA,"Habersham County",13137
+1041,"2015-02-21","127 NM-37","Capitan","NM",NA,"Lincoln County",35027
+1042,"2015-02-21","1800 Heather Circle","Indianapolis","IN",NA,"Marion County",18097
+1043,"2015-02-20","2200 Green Springs Highway","Birmingham","AL",NA,"Jefferson County",1073
+1044,"2015-02-20","951 W 36th Street North","Tulsa","OK",NA,"Osage County",40113
+1045,"2015-02-20","1201 E. Airtex Drive","Houston","TX",NA,"Harris County",48201
+1046,"2015-02-20","Highway 121","Euless","TX",NA,"Tarrant County",48439
+1047,"2015-02-20","7900 First Avenue South","Birmingham","AL",NA,"Jefferson County",1073
+1048,"2015-02-20","Hammonton Smartville Rd and Doolittle Drive","Marysville","CA",NA,"Yuba County",6115
+1049,"2015-02-19","1400 North Marion","Springfield","MO",NA,"Christian County",29043
+1050,"2015-02-18","2700 Bellefonte Dr","Charlotte","NC",NA,"Mecklenburg County",37119
+1051,"2015-02-17","U.S. Highway 90 East and Charles Drive","Del Rio","TX",NA,"Val Verde County",48465
+1052,"2015-02-17","55 Forest Ave","Tewksbury","MA",NA,"Middlesex County",25017
+1053,"2015-02-17","3800 Canfield Road","Eaton Rapids Township","MI",NA,"Eaton County",26045
+1054,"2015-02-17","2325 Union Road","Gastonia","NC",NA,"Gaston County",37071
+1055,"2015-02-16","I-10 & Cortaro Road","Marana","AZ",NA,"Pima County",4019
+1056,"2015-02-16","Malad St & Gourley St","Boise","ID",NA,"Ada County",16001
+1057,"2015-02-15","19157 NW Third Ave.","Miami Gardens","FL",NA,"Miami-Dade County",12086
+1058,"2015-02-15","29000 S Wall St","Colton","OR",NA,"Clackamas County",41005
+1059,"2015-02-15","1110 Battleground Dr","Iuka","MS",NA,"Tishomingo County",28141
+1060,"2015-02-15","1800 West and 600 South","Provo","UT",NA,"Utah County",49049
+1061,"2015-02-14","1399 Hyde Park Rd","Essex","MD",NA,"Baltimore County",24005
+1062,"2015-02-14","Gale Street and East Drive","Laredo","TX",NA,"Webb County",48479
+1063,"2015-02-13","1100 Ruby Avenue","Kansas City","KS",NA,"Wyandotte County",20209
+1064,"2015-02-13","200 S McNab Pkwy","San Manuel","AZ",NA,"Pinal County",4021
+1065,"2015-02-13","2500 Terry Road","Atwood","TN",NA,"Carroll County",47017
+1066,"2015-02-13","414 Rehr St.","Reading","PA",19606,"Berks County",42011
+1067,"2015-02-13","Mojave Fwy","San Bernardino","CA",NA,"San Bernardino County",6071
+1068,"2015-02-11","1300 Sherman Street","San Jose","CA",NA,"Santa Clara County",6085
+1069,"2015-02-11","410 Williams Ave","Port St. Joe","FL",NA,"Gulf County",12045
+1070,"2015-02-11","Booger Hollow Road","Dadeville","AL",36853,"Tallapoosa County",1123
+1071,"2015-02-10","4500 Aldridge Drive","Memphis","TN",NA,"Shelby County",47157
+1072,"2015-02-10","1107 W. Lewis St","Pasco","WA",NA,"Franklin County",53021
+1073,"2015-02-10","I-70 & US-6","Glenwood Springs","CO",NA,"Garfield County",8045
+1074,"2015-02-10","645 Smyrna Center Road","Smyrna Mills","ME",NA,"Aroostook County",23003
+1075,"2015-02-09","7100 Bonnie View Rd","Dallas","TX",NA,"Dallas County",48113
+1076,"2015-02-09","1500 S.W. 12 Ave","Pompano Beach","FL",NA,"Broward County",12011
+1077,"2015-02-09","200 Jordan Drive","Nocona","TX",NA,"Montague County",48337
+1078,"2015-02-09","67 N. Little Tor Road","New City","NY",NA,"Rockland County",36087
+1079,"2015-02-09","13600 Culver Blvd","Marina Del Rey","CA",NA,"Los Angeles County",6037
+1080,"2015-02-08","4501 Hoffner Avenue","Orlando","FL",32812,"Orange County",12095
+1081,"2015-02-08","10520 Judicial Dr","Fairfax","VA",22030,"Fairfax County",51059
+1082,"2015-02-08","E 15th Ave & Medfra St","Anchorage","AK",NA,"Anchorage, Municipality of",2020
+1083,"2015-02-08","Silvermine Drive and Highway 71","Austin","TX",NA,"Travis County",48453
+1084,"2015-02-07","2701 Mary Avenue","Gastonia","NC",28052,"Anson County",37007
+1085,"2015-02-07","Himes Street SE and Jefferson Avenue SE ","Wyoming","MI",49548,"Kent County",26081
+1086,"2015-02-06","1000 SW 62nd St","Oklahoma City","OK",NA,"Oklahoma County",40109
+1087,"2015-02-05","1200 Calimesa Blvd.","Calimesa","CA",NA,"Riverside County",6065
+1088,"2015-02-04","3800 Vernon Avenue","Memphis","TN",NA,"Shelby County",47157
+1089,"2015-02-04","I-35","Lorena","TX",NA,"McLennan County",48309
+1090,"2015-02-04","2424 W Tharpe Street","Tallahassee","FL",NA,"Leon County",12073
+1091,"2015-02-04","E. Baseline Road and 48th Street","Tempe","AZ",NA,"Maricopa County",4013
+1092,"2015-02-04","4304 Pershing Pointe Pl","Orlando","FL",NA,"Orange County",12095
+1093,"2015-02-04","E. Baseline Road and 48th Street","Tempe","AZ",85042,"Maricopa County",4013
+1094,"2015-02-04","2800 East 79th Street","Chicago","IL",NA,"Cook County",17031
+1095,"2015-02-04","Euclid Ave and Pine Ave","Chino","CA",NA,"San Bernardino County",6071
+1096,"2015-02-03","4100 Minnesota Avenue","St. Louis","MO",NA,"St. Louis County",29189
+1097,"2015-02-03","1000 Claudia Ct","Antioch","CA",NA,"Contra Costa County",6013
+1098,"2015-02-03","3400 Hollis Street","Emeryville","CA",NA,"Alameda County",6001
+1099,"2015-02-03","U.S. 287","Electra","TX",NA,"Wichita County",48485
+1100,"2015-02-03","1404 North June Ave","Douglas","GA",NA,"Coffee County",13069
+1101,"2015-02-02","36 Grandview Road","Hummelstown","PA",NA,"Dauphin County",42043
+1102,"2015-02-02","1600 3rd St","Bay City","MI",NA,"Bay County",26017
+1103,"2015-02-02","9000 Buena Vista St","Apple Valley","CA",NA,"San Bernardino County",6071
+1104,"2015-02-01","Little York and Fry Road","Katy","TX",NA,"Harris County",48201
+1105,"2015-01-31","9856 Liberty Rd","Randallstown","MD",NA,"Baltimore County",24005
+1106,"2015-01-30","2800 10th Ave N","Billings","MT",NA,"Yellowstone County",30111
+1107,"2015-01-29","200 S Loop 336 W","Conroe","TX",77304,"Montgomery County",48339
+1108,"2015-01-29","4800 Hildring Drive","Fort Worth","TX",NA,"Tarrant County",48439
+1109,"2015-01-29","N. Perkins Road and E. Virginia Avenue","Stillwater","OK",NA,"Payne County",40119
+1110,"2015-01-28","1300 E 4th Ave","Anchorage","AK",99501,"Anchorage, Municipality of",2020
+1111,"2015-01-28","Traylor Stadium","Rosenberg","TX",77471,"Fort Bend County",48157
+1112,"2015-01-28",NA,"Sunset","TX",76270,"Montague County",48337
+1113,"2015-01-27","200 Buffalo Court","Columbus","OH",NA,"Franklin County",39049
+1114,"2015-01-27","4130 North Black Canyon Highway","Phoenix","AZ",NA,"Maricopa County",4013
+1115,"2015-01-27","N El Dorado St & Martinique Ct","Stockton","CA",NA,"San Joaquin County",6077
+1116,"2015-01-27","1702 S. 50th Street","Omaha","NE",NA,"Douglas County",31055
+1117,"2015-01-26","1 Moreland Dr","San Bruno","CA",94066,"San Mateo County",6081
+1118,"2015-01-26","1134 E Street","Wasco","CA",NA,"Kern County",6029
+1119,"2015-01-26","E. 25th Ave. and Newport St.","Denver","CO",80207,"Denver, City and County of",8031
+1120,"2015-01-26","US Hwy 380","Tahoka","TX",NA,"Lynn County",48305
+1121,"2015-01-26","Howell Prairie Rd NE","Salem","OR",NA,"Marion County",41047
+1122,"2015-01-26","4500 US-191","Morenci","AZ",NA,"Greenlee County",4011
+1123,"2015-01-26","4401 Xylon Avenue North","New Hope","MN",NA,"Hennepin County",27053
+1124,"2015-01-25","2000 Troy Ave.","Pueblo","CO",NA,"Pueblo County",8101
+1125,"2015-01-25","300 New Brooklyn Road","Winslow","NJ",NA,"Camden County",34007
+1126,"2015-01-24","1900 McHenry St","Baltimore","MD",NA,"Baltimore, City of",24510
+1127,"2015-01-24","164 E Main St","Rexburg","ID",NA,"Madison County",16065
+1128,"2015-01-23","1980 NW 46 Avenue","Lauderhill","FL",NA,"Broward County",12011
+1129,"2015-01-23","15th Street and Avenue A","Levelland","TX",NA,"Hockley County",48219
+1130,"2015-01-23","Slaughter Lane and Congress Avenue","Austin","TX",NA,"Travis County",48453
+1131,"2015-01-22","Interstate 10","Sierra Blanca","TX",NA,"Hudspeth County",48229
+1132,"2015-01-22","302 W. Cotton Street","Longview","TX",NA,"Gregg County",48183
+1133,"2015-01-21","Marcus Avenue and Cottage Avenue","St. Louis","MO",NA,"St. Louis County",29189
+1134,"2015-01-21","Chapeño Road","Roma","TX",NA,"Starr County",48427
+1135,"2015-01-21",NA,"Starr","TX",78536,"Starr County",48427
+1136,"2015-01-21","Scobie Pond Road and Julian Road","Derry","NH",NA,"Rockingham County",33015
+1137,"2015-01-21","40200 Clark Dr.","Hemet","CA",NA,"Riverside County",6065
+1138,"2015-01-21","3468 Casino Way","Robinsonville","MS",NA,"Tunica County",28143
+1139,"2015-01-19","69 Prospect Hill Drive","Weymouth","MA",NA,"Norfolk County",25021
+1140,"2015-01-18","AZ-347 & Cobblestone Farms Dr","Maricopa","AZ",NA,"Maricopa County",4013
+1141,"2015-01-18","Kentucky 7","Gunlock","KY",NA,"Magoffin County",21153
+1142,"2015-01-17","1800 North 24th Street","Muskogee","OK",NA,"Muskogee County",40101
+1143,"2015-01-17","1700 NE 36th St","Fort Worth","TX",NA,"Tarrant County",48439
+1144,"2015-01-17","E 6th St & Mateo St","Los Angeles","CA",NA,"Los Angeles County",6037
+1145,"2015-01-16","5806 Xerxes Ave N","Brooklyn Center","MN",NA,"Hennepin County",27053
+1146,"2015-01-16","1000 South Denver Avenue","Tulsa","OK",NA,"Tulsa County",40143
+1147,"2015-01-16","12810 Gulf Freeway","Houston","TX",77089,"Harris County",48201
+1148,"2015-01-16","Lake Arrowhead Avenue and Great Salt Lake Drive","Fremont","CA",NA,"Alameda County",6001
+1149,"2015-01-16","County Road 2718","Mabank","TX",75147,"Kaufman County",48257
+1150,"2015-01-16","300 Hillside Avenue","Nutley","NJ",NA,"Essex County",34013
+1151,"2015-01-15","East 38th Street and North Mitthoeffer Road","Indianapolis","IN",NA,"Marion County",18097
+1152,"2015-01-15","1100 Sir Gawaine Drive","Chesapeake","VA",NA,"Chesapeake, City of[",51550
+1153,"2015-01-15","East Sixth Avenue and North Tower Road","Aurora","CO",NA,"Arapahoe County",8005
+1154,"2015-01-15","Chaparral Road and Hayden Road","Scottsdale","AZ",NA,"Maricopa County",4013
+1155,"2015-01-15","2000 Sousa Court","Fairfield","CA",NA,"Solano County",6095
+1156,"2015-01-15","Becky Sue St","Ville Platte","LA",NA,"Evangeline Parish",22039
+1157,"2015-01-15","5800 West 99th Street","Bloomington","MN",NA,"Hennepin County",27053
+1158,"2015-01-15","50 Stanford St","Crab Orchard","KY",NA,"Lincoln County",21137
+1159,"2015-01-14","261 E. University Ave.","St. Paul","MN",NA,"Ramsey County",27123
+1160,"2015-01-14","40 Cedar Grove Place","Old Bridge","NJ",NA,"Middlesex County",34023
+1161,"2015-01-14","120 Honey Berry Ct","Draper","UT",NA,"Salt Lake County",49035
+1162,"2015-01-14","500 Sycamore Street","Lake Jackson","TX",NA,"Brazoria County",48039
+1163,"2015-01-14","600 Spring Drive","Robertsville","MO",NA,"Franklin County",29071
+1164,"2015-01-14","Route 23 and Cairo Junction Road","Catskill","NY",NA,"Greene County",36039
+1165,"2015-01-13","2028 San Mateo Blvd NE","Albuquerque","NM",NA,"Bernalillo County",35001
+1166,"2015-01-13","600 Olive St.","Jourdanton","TX",NA,"Atascosa County",48013
+1167,"2015-01-11","N. Eastern and E. Searles Avenue","North Las Vegas","NV",NA,"Clark County",32003
+1168,"2015-01-11","8900 Kauffman Avenue","South Gate","CA",NA,"Los Angeles County",6037
+1169,"2015-01-11","224 Circle Dr","Arcola","IL",NA,"Douglas County",17041
+1170,"2015-01-09","422 SE 3rd Street","England","AR",NA,"Lonoke County",5085
+1171,"2015-01-09","2964 W. 2125 South","Syracuse","UT",NA,"Davis County",49011
+1172,"2015-01-08","9661 Strong Highway","Strong","AR",NA,"Union County",5139
+1173,"2015-01-08","600 Second Avenue","Salt Lake City","UT",NA,"Salt Lake County",49035
+1174,"2015-01-08","3618 White Buffalo Road","Huntley","MT",NA,"Yellowstone County",30111
+1175,"2015-01-07","300 Yaupon Street","Freeport","TX",NA,"Brazoria County",48039
+1176,"2015-01-07","Lasalle St & Josephine St","New Orleans","LA",NA,"Orleans Parish",22071
+1177,"2015-01-07","4600 International Gateway","Columbus","OH",NA,"Franklin County",39049
+1178,"2015-01-07","1223 Omaha Avenue","Norfolk","NE",NA,"Madison County",31119
+1179,"2015-01-07","SE 4th St. and Scott Ave.","Des Moines","IA",NA,"Polk County",19153
+1180,"2015-01-07","6100 Scott Street","Rosemont","IL",NA,"Cook County",17031
+1181,"2015-01-06","101 Redlyn Street","Knoxville","PA",NA,"Allegheny County",42003
+1182,"2015-01-06","1600 East 123rd Street","Los Angeles","CA",NA,"Los Angeles County",6037
+1183,"2015-01-06","800 Howard St","Stockton","CA",NA,"San Joaquin County",6077
+1184,"2015-01-06","2388 E. Kansas Highway 4","Assaria","KS",NA,"Saline County",20169
+1185,"2015-01-06","104 South Garfield Avenue","Burlington","IA",NA,"Des Moines County",19057
+1186,"2015-01-05","E Knox Rd","Chandler","AZ",NA,"Maricopa County",4013
+1187,"2015-01-04","818 31st Street","Evans","CO",NA,"Weld County",8123
+1188,"2015-01-04","300 East Harrison Ave","Guthrie","OK",NA,"Logan County",40083
+1189,"2015-01-04","Valencia Street and 17th Street","San Francisco","CA",NA,"San Francisco, City and County of",6075
+1190,"2015-01-04","1-2600 Kaumualii Hwy","Kaumakani","HI",NA,"Kauai County",15007
+1191,"2015-01-03","500 N Oliver Ave","Wichita","KS",NA,"Sedgwick County",20173
+1192,"2015-01-02","600 E Island Lake Dr","Shelton","WA",NA,"Mason County",53045
+1193,"2015-01-02","4519 S.W. Masters Loop","Aloha","OR",NA,"Washington County",41067
+1194,"2015-01-01","1050 Carl Griffin Drive","Savannah","GA",NA,"Chatham County",13051
+1195,"2015-01-01","39 NorthMarlin Avenue","Key Largo","FL",NA,"Monroe County",12087
+1196,"2015-01-01","Crowell Road and Tipcart Drive","Chatham","MA",NA,"Barnstable County",25001
