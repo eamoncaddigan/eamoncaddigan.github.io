@@ -1,0 +1,44 @@
+---
+title: "2017 mayoral election parties"
+author: "Eamon Caddigan"
+date: "November 21, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+```{r libraries, include = FALSE}
+suppressMessages(library(dplyr))
+suppressMessages(library(readr))
+suppressMessages(library(ggplot2))
+```
+```{r load_data, include = FALSE}
+mayoralElections <- read_csv("data/municipal_elections_2017.csv") %>%
+  filter(mayor == TRUE) %>%
+  mutate(incumbent_mayor_party = factor(incumbent_mayor_party,
+                                        levels = c("Democratic", "Republican", "Nonpartisan")))
+```
+In 2017, `r nrow(mayoralElections)` cities are holding mayoral elections. Here they are by political party:
+
+```{r plot_data}
+mayoralElections %>%
+  count(incumbent_mayor_party) %>%
+  ggplot(aes(x = incumbent_mayor_party, y = n,
+                             fill = incumbent_mayor_party)) +
+  geom_bar(stat = "identity") +
+  geom_text(aes(label = n), hjust = 0.5, vjust = 1.0, size = 6,
+            nudge_y = -0.3, color = "white") +
+  scale_fill_manual(values = c("Democratic" = "#0000fe",
+                               "Republican" = "#fe0000",
+                               "Nonpartisan" = "#38566a")) +
+  theme(legend.position = "none",
+        panel.background = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.text.x = element_text(size = 12),
+        axis.ticks.x = element_blank()) +
+  labs(title = "2017 Mayoral Elections",
+       x = "Incumbent Party",
+       y = "")
+```
